@@ -1,0 +1,2151 @@
+,antecedents,consequents
+0,frozenset({1696}),frozenset({70509})
+1,frozenset({70509}),frozenset({1696})
+2,frozenset({1697}),frozenset({1698})
+3,frozenset({1698}),frozenset({1697})
+4,frozenset({1697}),frozenset({1755})
+5,frozenset({1755}),frozenset({1697})
+6,frozenset({1697}),frozenset({23004})
+7,frozenset({23004}),frozenset({1697})
+8,frozenset({1697}),frozenset({70509})
+9,frozenset({70509}),frozenset({1697})
+10,frozenset({1697}),frozenset({88411})
+11,frozenset({88411}),frozenset({1697})
+12,frozenset({1697}),frozenset({88444})
+13,frozenset({88444}),frozenset({1697})
+14,frozenset({1697}),frozenset({88623})
+15,frozenset({88623}),frozenset({1697})
+16,frozenset({1697}),frozenset({88676})
+17,frozenset({88676}),frozenset({1697})
+18,frozenset({1697}),frozenset({135493})
+19,frozenset({135493}),frozenset({1697})
+20,frozenset({1697}),frozenset({135789})
+21,frozenset({135789}),frozenset({1697})
+22,frozenset({1697}),frozenset({3336149})
+23,frozenset({3336149}),frozenset({1697})
+24,frozenset({1698}),frozenset({1699})
+25,frozenset({1699}),frozenset({1698})
+26,frozenset({1698}),frozenset({1707})
+27,frozenset({1707}),frozenset({1698})
+28,frozenset({1698}),frozenset({1708})
+29,frozenset({1708}),frozenset({1698})
+30,frozenset({1698}),frozenset({1746})
+31,frozenset({1746}),frozenset({1698})
+32,frozenset({1698}),frozenset({1755})
+33,frozenset({1755}),frozenset({1698})
+34,frozenset({1698}),frozenset({23004})
+35,frozenset({23004}),frozenset({1698})
+36,frozenset({70448}),frozenset({1698})
+37,frozenset({1698}),frozenset({70448})
+38,frozenset({1698}),frozenset({70509})
+39,frozenset({70509}),frozenset({1698})
+40,frozenset({1698}),frozenset({87118})
+41,frozenset({87118}),frozenset({1698})
+42,frozenset({1698}),frozenset({88411})
+43,frozenset({88411}),frozenset({1698})
+44,frozenset({1698}),frozenset({88444})
+45,frozenset({88444}),frozenset({1698})
+46,frozenset({1698}),frozenset({88623})
+47,frozenset({88623}),frozenset({1698})
+48,frozenset({1698}),frozenset({88676})
+49,frozenset({88676}),frozenset({1698})
+50,frozenset({1698}),frozenset({135492})
+51,frozenset({135492}),frozenset({1698})
+52,frozenset({1698}),frozenset({135493})
+53,frozenset({135493}),frozenset({1698})
+54,frozenset({1698}),frozenset({135789})
+55,frozenset({135789}),frozenset({1698})
+56,frozenset({1699}),frozenset({23004})
+57,frozenset({23004}),frozenset({1699})
+58,frozenset({1699}),frozenset({70509})
+59,frozenset({70509}),frozenset({1699})
+60,frozenset({1707}),frozenset({1708})
+61,frozenset({1708}),frozenset({1707})
+62,frozenset({1707}),frozenset({23004})
+63,frozenset({23004}),frozenset({1707})
+64,frozenset({70449}),frozenset({1707})
+65,frozenset({1707}),frozenset({70449})
+66,frozenset({1707}),frozenset({70509})
+67,frozenset({70509}),frozenset({1707})
+68,frozenset({88411}),frozenset({1707})
+69,frozenset({1707}),frozenset({88411})
+70,frozenset({1707}),frozenset({88444})
+71,frozenset({88444}),frozenset({1707})
+72,frozenset({23004}),frozenset({1708})
+73,frozenset({1708}),frozenset({23004})
+74,frozenset({1708}),frozenset({70447})
+75,frozenset({70447}),frozenset({1708})
+76,frozenset({70449}),frozenset({1708})
+77,frozenset({1708}),frozenset({70449})
+78,frozenset({70450}),frozenset({1708})
+79,frozenset({1708}),frozenset({70450})
+80,frozenset({1708}),frozenset({70509})
+81,frozenset({70509}),frozenset({1708})
+82,frozenset({87945}),frozenset({1708})
+83,frozenset({1708}),frozenset({87945})
+84,frozenset({88411}),frozenset({1708})
+85,frozenset({1708}),frozenset({88411})
+86,frozenset({88444}),frozenset({1708})
+87,frozenset({1708}),frozenset({88444})
+88,frozenset({1708}),frozenset({88445})
+89,frozenset({88445}),frozenset({1708})
+90,frozenset({4709595}),frozenset({1708})
+91,frozenset({1708}),frozenset({4709595})
+92,frozenset({1746}),frozenset({70509})
+93,frozenset({70509}),frozenset({1746})
+94,frozenset({1746}),frozenset({70511})
+95,frozenset({70511}),frozenset({1746})
+96,frozenset({1746}),frozenset({88411})
+97,frozenset({88411}),frozenset({1746})
+98,frozenset({70448}),frozenset({1754})
+99,frozenset({1754}),frozenset({70448})
+100,frozenset({1755}),frozenset({1756})
+101,frozenset({1756}),frozenset({1755})
+102,frozenset({1755}),frozenset({70509})
+103,frozenset({70509}),frozenset({1755})
+104,frozenset({88411}),frozenset({1755})
+105,frozenset({1755}),frozenset({88411})
+106,frozenset({88443}),frozenset({1755})
+107,frozenset({1755}),frozenset({88443})
+108,frozenset({1755}),frozenset({88622})
+109,frozenset({88622}),frozenset({1755})
+110,frozenset({1755}),frozenset({88623})
+111,frozenset({88623}),frozenset({1755})
+112,frozenset({1755}),frozenset({88676})
+113,frozenset({88676}),frozenset({1755})
+114,frozenset({1755}),frozenset({135492})
+115,frozenset({135492}),frozenset({1755})
+116,frozenset({1755}),frozenset({135493})
+117,frozenset({135493}),frozenset({1755})
+118,frozenset({1755}),frozenset({135494})
+119,frozenset({135494}),frozenset({1755})
+120,frozenset({1755}),frozenset({135495})
+121,frozenset({135495}),frozenset({1755})
+122,frozenset({1755}),frozenset({135501})
+123,frozenset({135501}),frozenset({1755})
+124,frozenset({1755}),frozenset({135503})
+125,frozenset({135503}),frozenset({1755})
+126,frozenset({135505}),frozenset({1755})
+127,frozenset({1755}),frozenset({135505})
+128,frozenset({135507}),frozenset({1755})
+129,frozenset({1755}),frozenset({135507})
+130,frozenset({1755}),frozenset({135789})
+131,frozenset({135789}),frozenset({1755})
+132,frozenset({1755}),frozenset({3216486})
+133,frozenset({3216486}),frozenset({1755})
+134,frozenset({1755}),frozenset({3336149})
+135,frozenset({3336149}),frozenset({1755})
+136,frozenset({1755}),frozenset({15021876})
+137,frozenset({15021876}),frozenset({1755})
+138,frozenset({23004}),frozenset({70126})
+139,frozenset({70126}),frozenset({23004})
+140,frozenset({70448}),frozenset({23004})
+141,frozenset({23004}),frozenset({70448})
+142,frozenset({70449}),frozenset({23004})
+143,frozenset({23004}),frozenset({70449})
+144,frozenset({23004}),frozenset({70509})
+145,frozenset({70509}),frozenset({23004})
+146,frozenset({88411}),frozenset({23004})
+147,frozenset({23004}),frozenset({88411})
+148,frozenset({88443}),frozenset({23004})
+149,frozenset({23004}),frozenset({88443})
+150,frozenset({23004}),frozenset({88444})
+151,frozenset({88444}),frozenset({23004})
+152,frozenset({23004}),frozenset({3336149})
+153,frozenset({3336149}),frozenset({23004})
+154,frozenset({26001}),frozenset({70509})
+155,frozenset({70509}),frozenset({26001})
+156,frozenset({26001}),frozenset({88411})
+157,frozenset({88411}),frozenset({26001})
+158,frozenset({70072}),frozenset({70415})
+159,frozenset({70415}),frozenset({70072})
+160,frozenset({70509}),frozenset({70126})
+161,frozenset({70126}),frozenset({70509})
+162,frozenset({87120}),frozenset({70126})
+163,frozenset({70126}),frozenset({87120})
+164,frozenset({88411}),frozenset({70126})
+165,frozenset({70126}),frozenset({88411})
+166,frozenset({88445}),frozenset({70126})
+167,frozenset({70126}),frozenset({88445})
+168,frozenset({70128}),frozenset({70127})
+169,frozenset({70127}),frozenset({70128})
+170,frozenset({88411}),frozenset({70127})
+171,frozenset({70127}),frozenset({88411})
+172,frozenset({70128}),frozenset({70509})
+173,frozenset({70509}),frozenset({70128})
+174,frozenset({70128}),frozenset({88411})
+175,frozenset({88411}),frozenset({70128})
+176,frozenset({70128}),frozenset({88475})
+177,frozenset({88475}),frozenset({70128})
+178,frozenset({70274}),frozenset({70509})
+179,frozenset({70509}),frozenset({70274})
+180,frozenset({87945}),frozenset({70447})
+181,frozenset({70447}),frozenset({87945})
+182,frozenset({70448}),frozenset({70449})
+183,frozenset({70449}),frozenset({70448})
+184,frozenset({70448}),frozenset({70509})
+185,frozenset({70509}),frozenset({70448})
+186,frozenset({70448}),frozenset({88411})
+187,frozenset({88411}),frozenset({70448})
+188,frozenset({70449}),frozenset({70450})
+189,frozenset({70450}),frozenset({70449})
+190,frozenset({70449}),frozenset({70509})
+191,frozenset({70509}),frozenset({70449})
+192,frozenset({70449}),frozenset({88444})
+193,frozenset({88444}),frozenset({70449})
+194,frozenset({70449}),frozenset({4709595})
+195,frozenset({4709595}),frozenset({70449})
+196,frozenset({70509}),frozenset({87118})
+197,frozenset({87118}),frozenset({70509})
+198,frozenset({87120}),frozenset({70509})
+199,frozenset({70509}),frozenset({87120})
+200,frozenset({87945}),frozenset({70509})
+201,frozenset({70509}),frozenset({87945})
+202,frozenset({88411}),frozenset({70509})
+203,frozenset({70509}),frozenset({88411})
+204,frozenset({88443}),frozenset({70509})
+205,frozenset({70509}),frozenset({88443})
+206,frozenset({88444}),frozenset({70509})
+207,frozenset({70509}),frozenset({88444})
+208,frozenset({88445}),frozenset({70509})
+209,frozenset({70509}),frozenset({88445})
+210,frozenset({88480}),frozenset({70509})
+211,frozenset({70509}),frozenset({88480})
+212,frozenset({70509}),frozenset({88622})
+213,frozenset({88622}),frozenset({70509})
+214,frozenset({70509}),frozenset({88623})
+215,frozenset({88623}),frozenset({70509})
+216,frozenset({88675}),frozenset({70509})
+217,frozenset({70509}),frozenset({88675})
+218,frozenset({88676}),frozenset({70509})
+219,frozenset({70509}),frozenset({88676})
+220,frozenset({134867}),frozenset({70509})
+221,frozenset({70509}),frozenset({134867})
+222,frozenset({135384}),frozenset({70509})
+223,frozenset({70509}),frozenset({135384})
+224,frozenset({135492}),frozenset({70509})
+225,frozenset({70509}),frozenset({135492})
+226,frozenset({135493}),frozenset({70509})
+227,frozenset({70509}),frozenset({135493})
+228,frozenset({70509}),frozenset({135494})
+229,frozenset({135494}),frozenset({70509})
+230,frozenset({70509}),frozenset({135495})
+231,frozenset({135495}),frozenset({70509})
+232,frozenset({135501}),frozenset({70509})
+233,frozenset({70509}),frozenset({135501})
+234,frozenset({70509}),frozenset({135503})
+235,frozenset({135503}),frozenset({70509})
+236,frozenset({135505}),frozenset({70509})
+237,frozenset({70509}),frozenset({135505})
+238,frozenset({135507}),frozenset({70509})
+239,frozenset({70509}),frozenset({135507})
+240,frozenset({70509}),frozenset({135789})
+241,frozenset({135789}),frozenset({70509})
+242,frozenset({70509}),frozenset({761495})
+243,frozenset({761495}),frozenset({70509})
+244,frozenset({3336149}),frozenset({70509})
+245,frozenset({70509}),frozenset({3336149})
+246,frozenset({3344437}),frozenset({70509})
+247,frozenset({70509}),frozenset({3344437})
+248,frozenset({4709595}),frozenset({70509})
+249,frozenset({70509}),frozenset({4709595})
+250,frozenset({15021864}),frozenset({70509})
+251,frozenset({70509}),frozenset({15021864})
+252,frozenset({88411}),frozenset({87118})
+253,frozenset({87118}),frozenset({88411})
+254,frozenset({87118}),frozenset({88623})
+255,frozenset({88623}),frozenset({87118})
+256,frozenset({3336149}),frozenset({87118})
+257,frozenset({87118}),frozenset({3336149})
+258,frozenset({87120}),frozenset({88411})
+259,frozenset({88411}),frozenset({87120})
+260,frozenset({87945}),frozenset({4709595})
+261,frozenset({4709595}),frozenset({87945})
+262,frozenset({88411}),frozenset({88443})
+263,frozenset({88443}),frozenset({88411})
+264,frozenset({88411}),frozenset({88444})
+265,frozenset({88444}),frozenset({88411})
+266,frozenset({88411}),frozenset({88475})
+267,frozenset({88475}),frozenset({88411})
+268,frozenset({88480}),frozenset({88411})
+269,frozenset({88411}),frozenset({88480})
+270,frozenset({88411}),frozenset({88622})
+271,frozenset({88622}),frozenset({88411})
+272,frozenset({88411}),frozenset({88623})
+273,frozenset({88623}),frozenset({88411})
+274,frozenset({88411}),frozenset({88675})
+275,frozenset({88675}),frozenset({88411})
+276,frozenset({88411}),frozenset({88676})
+277,frozenset({88676}),frozenset({88411})
+278,frozenset({88411}),frozenset({135492})
+279,frozenset({135492}),frozenset({88411})
+280,frozenset({88411}),frozenset({135493})
+281,frozenset({135493}),frozenset({88411})
+282,frozenset({88411}),frozenset({135494})
+283,frozenset({135494}),frozenset({88411})
+284,frozenset({88411}),frozenset({135495})
+285,frozenset({135495}),frozenset({88411})
+286,frozenset({88411}),frozenset({135501})
+287,frozenset({135501}),frozenset({88411})
+288,frozenset({88411}),frozenset({135503})
+289,frozenset({135503}),frozenset({88411})
+290,frozenset({135505}),frozenset({88411})
+291,frozenset({88411}),frozenset({135505})
+292,frozenset({135507}),frozenset({88411})
+293,frozenset({88411}),frozenset({135507})
+294,frozenset({88411}),frozenset({135510})
+295,frozenset({135510}),frozenset({88411})
+296,frozenset({88411}),frozenset({135789})
+297,frozenset({135789}),frozenset({88411})
+298,frozenset({88411}),frozenset({761495})
+299,frozenset({761495}),frozenset({88411})
+300,frozenset({2100794}),frozenset({88411})
+301,frozenset({88411}),frozenset({2100794})
+302,frozenset({88411}),frozenset({3216486})
+303,frozenset({3216486}),frozenset({88411})
+304,frozenset({88411}),frozenset({3336149})
+305,frozenset({3336149}),frozenset({88411})
+306,frozenset({15021864}),frozenset({88411})
+307,frozenset({88411}),frozenset({15021864})
+308,frozenset({88411}),frozenset({15021876})
+309,frozenset({15021876}),frozenset({88411})
+310,frozenset({88443}),frozenset({88623})
+311,frozenset({88623}),frozenset({88443})
+312,frozenset({88443}),frozenset({88676})
+313,frozenset({88676}),frozenset({88443})
+314,frozenset({88443}),frozenset({135493})
+315,frozenset({135493}),frozenset({88443})
+316,frozenset({88443}),frozenset({135789})
+317,frozenset({135789}),frozenset({88443})
+318,frozenset({88622}),frozenset({88623})
+319,frozenset({88623}),frozenset({88622})
+320,frozenset({88675}),frozenset({88622})
+321,frozenset({88622}),frozenset({88675})
+322,frozenset({88676}),frozenset({88622})
+323,frozenset({88622}),frozenset({88676})
+324,frozenset({135492}),frozenset({88622})
+325,frozenset({88622}),frozenset({135492})
+326,frozenset({135493}),frozenset({88622})
+327,frozenset({88622}),frozenset({135493})
+328,frozenset({88622}),frozenset({135494})
+329,frozenset({135494}),frozenset({88622})
+330,frozenset({88622}),frozenset({135495})
+331,frozenset({135495}),frozenset({88622})
+332,frozenset({3336149}),frozenset({88622})
+333,frozenset({88622}),frozenset({3336149})
+334,frozenset({88675}),frozenset({88623})
+335,frozenset({88623}),frozenset({88675})
+336,frozenset({88676}),frozenset({88623})
+337,frozenset({88623}),frozenset({88676})
+338,frozenset({135492}),frozenset({88623})
+339,frozenset({88623}),frozenset({135492})
+340,frozenset({135493}),frozenset({88623})
+341,frozenset({88623}),frozenset({135493})
+342,frozenset({135494}),frozenset({88623})
+343,frozenset({88623}),frozenset({135494})
+344,frozenset({88623}),frozenset({135495})
+345,frozenset({135495}),frozenset({88623})
+346,frozenset({135505}),frozenset({88623})
+347,frozenset({88623}),frozenset({135505})
+348,frozenset({88623}),frozenset({761495})
+349,frozenset({761495}),frozenset({88623})
+350,frozenset({3336149}),frozenset({88623})
+351,frozenset({88623}),frozenset({3336149})
+352,frozenset({15021876}),frozenset({88623})
+353,frozenset({88623}),frozenset({15021876})
+354,frozenset({88675}),frozenset({88676})
+355,frozenset({88676}),frozenset({88675})
+356,frozenset({88675}),frozenset({135493})
+357,frozenset({135493}),frozenset({88675})
+358,frozenset({88675}),frozenset({135495})
+359,frozenset({135495}),frozenset({88675})
+360,frozenset({135505}),frozenset({88675})
+361,frozenset({88675}),frozenset({135505})
+362,frozenset({88675}),frozenset({761495})
+363,frozenset({761495}),frozenset({88675})
+364,frozenset({88675}),frozenset({3336149})
+365,frozenset({3336149}),frozenset({88675})
+366,frozenset({88676}),frozenset({135492})
+367,frozenset({135492}),frozenset({88676})
+368,frozenset({88676}),frozenset({135493})
+369,frozenset({135493}),frozenset({88676})
+370,frozenset({88676}),frozenset({135494})
+371,frozenset({135494}),frozenset({88676})
+372,frozenset({88676}),frozenset({135495})
+373,frozenset({135495}),frozenset({88676})
+374,frozenset({135505}),frozenset({88676})
+375,frozenset({88676}),frozenset({135505})
+376,frozenset({135507}),frozenset({88676})
+377,frozenset({88676}),frozenset({135507})
+378,frozenset({88676}),frozenset({135789})
+379,frozenset({135789}),frozenset({88676})
+380,frozenset({88676}),frozenset({3336149})
+381,frozenset({3336149}),frozenset({88676})
+382,frozenset({88676}),frozenset({15021876})
+383,frozenset({15021876}),frozenset({88676})
+384,frozenset({135492}),frozenset({135493})
+385,frozenset({135493}),frozenset({135492})
+386,frozenset({135492}),frozenset({135494})
+387,frozenset({135494}),frozenset({135492})
+388,frozenset({135492}),frozenset({135495})
+389,frozenset({135495}),frozenset({135492})
+390,frozenset({135505}),frozenset({135492})
+391,frozenset({135492}),frozenset({135505})
+392,frozenset({135492}),frozenset({3216486})
+393,frozenset({3216486}),frozenset({135492})
+394,frozenset({135492}),frozenset({3336149})
+395,frozenset({3336149}),frozenset({135492})
+396,frozenset({135493}),frozenset({135494})
+397,frozenset({135494}),frozenset({135493})
+398,frozenset({135493}),frozenset({135495})
+399,frozenset({135495}),frozenset({135493})
+400,frozenset({135501}),frozenset({135493})
+401,frozenset({135493}),frozenset({135501})
+402,frozenset({135493}),frozenset({135503})
+403,frozenset({135503}),frozenset({135493})
+404,frozenset({135505}),frozenset({135493})
+405,frozenset({135493}),frozenset({135505})
+406,frozenset({135506}),frozenset({135493})
+407,frozenset({135493}),frozenset({135506})
+408,frozenset({135507}),frozenset({135493})
+409,frozenset({135493}),frozenset({135507})
+410,frozenset({135493}),frozenset({135789})
+411,frozenset({135789}),frozenset({135493})
+412,frozenset({135493}),frozenset({3216486})
+413,frozenset({3216486}),frozenset({135493})
+414,frozenset({3336149}),frozenset({135493})
+415,frozenset({135493}),frozenset({3336149})
+416,frozenset({135494}),frozenset({135495})
+417,frozenset({135495}),frozenset({135494})
+418,frozenset({135505}),frozenset({135494})
+419,frozenset({135494}),frozenset({135505})
+420,frozenset({3216486}),frozenset({135494})
+421,frozenset({135494}),frozenset({3216486})
+422,frozenset({135505}),frozenset({135495})
+423,frozenset({135495}),frozenset({135505})
+424,frozenset({135495}),frozenset({761495})
+425,frozenset({761495}),frozenset({135495})
+426,frozenset({3216486}),frozenset({135495})
+427,frozenset({135495}),frozenset({3216486})
+428,frozenset({3336149}),frozenset({135495})
+429,frozenset({135495}),frozenset({3336149})
+430,frozenset({15021876}),frozenset({135495})
+431,frozenset({135495}),frozenset({15021876})
+432,frozenset({135505}),frozenset({3216486})
+433,frozenset({3216486}),frozenset({135505})
+434,frozenset({135505}),frozenset({3336149})
+435,frozenset({3336149}),frozenset({135505})
+436,frozenset({3336149}),frozenset({761495})
+437,frozenset({761495}),frozenset({3336149})
+438,frozenset({15157064}),frozenset({14481833})
+439,frozenset({14481833}),frozenset({15157064})
+440,frozenset({14481833}),frozenset({15192100})
+441,frozenset({15192100}),frozenset({14481833})
+442,frozenset({14675955}),frozenset({14671860})
+443,frozenset({14671860}),frozenset({14675955})
+444,frozenset({14671860}),frozenset({14980086})
+445,frozenset({14980086}),frozenset({14671860})
+446,frozenset({14671860}),frozenset({15192100})
+447,frozenset({15192100}),frozenset({14671860})
+448,frozenset({15194056}),frozenset({14671860})
+449,frozenset({14671860}),frozenset({15194056})
+450,frozenset({14675955}),frozenset({14980086})
+451,frozenset({14980086}),frozenset({14675955})
+452,frozenset({14675955}),frozenset({15192100})
+453,frozenset({15192100}),frozenset({14675955})
+454,frozenset({14760944}),frozenset({14752201})
+455,frozenset({14752201}),frozenset({14760944})
+456,frozenset({14790248}),frozenset({14782215})
+457,frozenset({14782215}),frozenset({14790248})
+458,frozenset({14790248}),frozenset({14929876})
+459,frozenset({14929876}),frozenset({14790248})
+460,frozenset({14790248}),frozenset({15280990})
+461,frozenset({15280990}),frozenset({14790248})
+462,frozenset({14790248}),frozenset({15336004})
+463,frozenset({15336004}),frozenset({14790248})
+464,frozenset({14790248}),frozenset({15336088})
+465,frozenset({15336088}),frozenset({14790248})
+466,frozenset({14876857}),frozenset({14870535})
+467,frozenset({14870535}),frozenset({14876857})
+468,frozenset({14929876}),frozenset({15336004})
+469,frozenset({15336004}),frozenset({14929876})
+470,frozenset({15192100}),frozenset({14980086})
+471,frozenset({14980086}),frozenset({15192100})
+472,frozenset({15194056}),frozenset({14980086})
+473,frozenset({14980086}),frozenset({15194056})
+474,frozenset({15037958}),frozenset({15240983})
+475,frozenset({15240983}),frozenset({15037958})
+476,frozenset({15242560}),frozenset({15037958})
+477,frozenset({15037958}),frozenset({15242560})
+478,frozenset({15157064}),frozenset({15192100})
+479,frozenset({15192100}),frozenset({15157064})
+480,frozenset({15280990}),frozenset({15189014})
+481,frozenset({15189014}),frozenset({15280990})
+482,frozenset({15189014}),frozenset({15288975})
+483,frozenset({15288975}),frozenset({15189014})
+484,frozenset({15194056}),frozenset({15192100})
+485,frozenset({15192100}),frozenset({15194056})
+486,frozenset({15286972}),frozenset({15280990})
+487,frozenset({15280990}),frozenset({15286972})
+488,frozenset({15280990}),frozenset({15288975})
+489,frozenset({15288975}),frozenset({15280990})
+490,frozenset({15288976}),frozenset({15280990})
+491,frozenset({15280990}),frozenset({15288976})
+492,frozenset({15336088}),frozenset({15280990})
+493,frozenset({15280990}),frozenset({15336088})
+494,frozenset({15288976}),frozenset({15286972})
+495,frozenset({15286972}),frozenset({15288976})
+496,frozenset({15419008}),frozenset({15306063})
+497,frozenset({15306063}),frozenset({15419008})
+498,frozenset({15336088}),frozenset({15336004})
+499,frozenset({15336004}),frozenset({15336088})
+500,"frozenset({1697, 1698})",frozenset({23004})
+501,"frozenset({1697, 23004})",frozenset({1698})
+502,"frozenset({1698, 23004})",frozenset({1697})
+503,frozenset({1697}),"frozenset({1698, 23004})"
+504,frozenset({1698}),"frozenset({1697, 23004})"
+505,frozenset({23004}),"frozenset({1697, 1698})"
+506,"frozenset({1697, 1698})",frozenset({70509})
+507,"frozenset({1697, 70509})",frozenset({1698})
+508,"frozenset({1698, 70509})",frozenset({1697})
+509,frozenset({1697}),"frozenset({1698, 70509})"
+510,frozenset({1698}),"frozenset({1697, 70509})"
+511,frozenset({70509}),"frozenset({1697, 1698})"
+512,"frozenset({1697, 1698})",frozenset({88411})
+513,"frozenset({1697, 88411})",frozenset({1698})
+514,"frozenset({1698, 88411})",frozenset({1697})
+515,frozenset({1697}),"frozenset({1698, 88411})"
+516,frozenset({1698}),"frozenset({1697, 88411})"
+517,frozenset({88411}),"frozenset({1697, 1698})"
+518,"frozenset({1697, 23004})",frozenset({70509})
+519,"frozenset({1697, 70509})",frozenset({23004})
+520,"frozenset({23004, 70509})",frozenset({1697})
+521,frozenset({1697}),"frozenset({23004, 70509})"
+522,frozenset({23004}),"frozenset({1697, 70509})"
+523,frozenset({70509}),"frozenset({1697, 23004})"
+524,"frozenset({1697, 88411})",frozenset({23004})
+525,"frozenset({1697, 23004})",frozenset({88411})
+526,"frozenset({88411, 23004})",frozenset({1697})
+527,frozenset({1697}),"frozenset({88411, 23004})"
+528,frozenset({88411}),"frozenset({1697, 23004})"
+529,frozenset({23004}),"frozenset({1697, 88411})"
+530,"frozenset({1697, 88411})",frozenset({70509})
+531,"frozenset({1697, 70509})",frozenset({88411})
+532,"frozenset({88411, 70509})",frozenset({1697})
+533,frozenset({1697}),"frozenset({88411, 70509})"
+534,frozenset({88411}),"frozenset({1697, 70509})"
+535,frozenset({70509}),"frozenset({1697, 88411})"
+536,"frozenset({1697, 88444})",frozenset({70509})
+537,"frozenset({1697, 70509})",frozenset({88444})
+538,"frozenset({88444, 70509})",frozenset({1697})
+539,frozenset({1697}),"frozenset({88444, 70509})"
+540,frozenset({88444}),"frozenset({1697, 70509})"
+541,frozenset({70509}),"frozenset({1697, 88444})"
+542,"frozenset({1697, 70509})",frozenset({88623})
+543,"frozenset({1697, 88623})",frozenset({70509})
+544,"frozenset({70509, 88623})",frozenset({1697})
+545,frozenset({1697}),"frozenset({70509, 88623})"
+546,frozenset({70509}),"frozenset({1697, 88623})"
+547,frozenset({88623}),"frozenset({1697, 70509})"
+548,"frozenset({1697, 88676})",frozenset({70509})
+549,"frozenset({1697, 70509})",frozenset({88676})
+550,"frozenset({88676, 70509})",frozenset({1697})
+551,frozenset({1697}),"frozenset({88676, 70509})"
+552,frozenset({88676}),"frozenset({1697, 70509})"
+553,frozenset({70509}),"frozenset({1697, 88676})"
+554,"frozenset({1697, 135493})",frozenset({70509})
+555,"frozenset({1697, 70509})",frozenset({135493})
+556,"frozenset({135493, 70509})",frozenset({1697})
+557,frozenset({1697}),"frozenset({135493, 70509})"
+558,frozenset({135493}),"frozenset({1697, 70509})"
+559,frozenset({70509}),"frozenset({1697, 135493})"
+560,"frozenset({1697, 70509})",frozenset({135789})
+561,"frozenset({1697, 135789})",frozenset({70509})
+562,"frozenset({70509, 135789})",frozenset({1697})
+563,frozenset({1697}),"frozenset({70509, 135789})"
+564,frozenset({70509}),"frozenset({1697, 135789})"
+565,frozenset({135789}),"frozenset({1697, 70509})"
+566,"frozenset({1697, 3336149})",frozenset({70509})
+567,"frozenset({3336149, 70509})",frozenset({1697})
+568,"frozenset({1697, 70509})",frozenset({3336149})
+569,frozenset({3336149}),"frozenset({1697, 70509})"
+570,frozenset({1697}),"frozenset({3336149, 70509})"
+571,frozenset({70509}),"frozenset({1697, 3336149})"
+572,"frozenset({1697, 88411})",frozenset({88676})
+573,"frozenset({1697, 88676})",frozenset({88411})
+574,"frozenset({88411, 88676})",frozenset({1697})
+575,frozenset({1697}),"frozenset({88411, 88676})"
+576,frozenset({88411}),"frozenset({1697, 88676})"
+577,frozenset({88676}),"frozenset({1697, 88411})"
+578,"frozenset({1697, 88411})",frozenset({135493})
+579,"frozenset({1697, 135493})",frozenset({88411})
+580,"frozenset({88411, 135493})",frozenset({1697})
+581,frozenset({1697}),"frozenset({88411, 135493})"
+582,frozenset({88411}),"frozenset({1697, 135493})"
+583,frozenset({135493}),"frozenset({1697, 88411})"
+584,"frozenset({1697, 88411})",frozenset({135789})
+585,"frozenset({1697, 135789})",frozenset({88411})
+586,"frozenset({88411, 135789})",frozenset({1697})
+587,frozenset({1697}),"frozenset({88411, 135789})"
+588,frozenset({88411}),"frozenset({1697, 135789})"
+589,frozenset({135789}),"frozenset({1697, 88411})"
+590,"frozenset({1697, 88676})",frozenset({135493})
+591,"frozenset({1697, 135493})",frozenset({88676})
+592,"frozenset({88676, 135493})",frozenset({1697})
+593,frozenset({1697}),"frozenset({88676, 135493})"
+594,frozenset({88676}),"frozenset({1697, 135493})"
+595,frozenset({135493}),"frozenset({1697, 88676})"
+596,"frozenset({1698, 23004})",frozenset({1708})
+597,"frozenset({1698, 1708})",frozenset({23004})
+598,"frozenset({1708, 23004})",frozenset({1698})
+599,frozenset({1698}),"frozenset({1708, 23004})"
+600,frozenset({23004}),"frozenset({1698, 1708})"
+601,frozenset({1708}),"frozenset({1698, 23004})"
+602,"frozenset({1698, 1708})",frozenset({70509})
+603,"frozenset({1698, 70509})",frozenset({1708})
+604,"frozenset({1708, 70509})",frozenset({1698})
+605,frozenset({1698}),"frozenset({1708, 70509})"
+606,frozenset({1708}),"frozenset({1698, 70509})"
+607,frozenset({70509}),"frozenset({1698, 1708})"
+608,"frozenset({1698, 88411})",frozenset({1708})
+609,"frozenset({1698, 1708})",frozenset({88411})
+610,"frozenset({88411, 1708})",frozenset({1698})
+611,frozenset({1698}),"frozenset({88411, 1708})"
+612,frozenset({88411}),"frozenset({1698, 1708})"
+613,frozenset({1708}),"frozenset({1698, 88411})"
+614,"frozenset({1698, 88444})",frozenset({1708})
+615,"frozenset({1708, 88444})",frozenset({1698})
+616,"frozenset({1698, 1708})",frozenset({88444})
+617,frozenset({88444}),"frozenset({1698, 1708})"
+618,frozenset({1698}),"frozenset({1708, 88444})"
+619,frozenset({1708}),"frozenset({1698, 88444})"
+620,"frozenset({1698, 23004})",frozenset({70509})
+621,"frozenset({1698, 70509})",frozenset({23004})
+622,"frozenset({23004, 70509})",frozenset({1698})
+623,frozenset({1698}),"frozenset({23004, 70509})"
+624,frozenset({23004}),"frozenset({1698, 70509})"
+625,frozenset({70509}),"frozenset({1698, 23004})"
+626,"frozenset({1698, 88411})",frozenset({23004})
+627,"frozenset({1698, 23004})",frozenset({88411})
+628,"frozenset({88411, 23004})",frozenset({1698})
+629,frozenset({1698}),"frozenset({88411, 23004})"
+630,frozenset({88411}),"frozenset({1698, 23004})"
+631,frozenset({23004}),"frozenset({1698, 88411})"
+632,"frozenset({1698, 23004})",frozenset({88444})
+633,"frozenset({1698, 88444})",frozenset({23004})
+634,"frozenset({88444, 23004})",frozenset({1698})
+635,frozenset({1698}),"frozenset({88444, 23004})"
+636,frozenset({23004}),"frozenset({1698, 88444})"
+637,frozenset({88444}),"frozenset({1698, 23004})"
+638,"frozenset({1698, 70509})",frozenset({87118})
+639,"frozenset({1698, 87118})",frozenset({70509})
+640,"frozenset({70509, 87118})",frozenset({1698})
+641,frozenset({1698}),"frozenset({70509, 87118})"
+642,frozenset({70509}),"frozenset({1698, 87118})"
+643,frozenset({87118}),"frozenset({1698, 70509})"
+644,"frozenset({1698, 88411})",frozenset({70509})
+645,"frozenset({1698, 70509})",frozenset({88411})
+646,"frozenset({88411, 70509})",frozenset({1698})
+647,frozenset({1698}),"frozenset({88411, 70509})"
+648,frozenset({88411}),"frozenset({1698, 70509})"
+649,frozenset({70509}),"frozenset({1698, 88411})"
+650,"frozenset({1698, 88444})",frozenset({70509})
+651,"frozenset({1698, 70509})",frozenset({88444})
+652,"frozenset({88444, 70509})",frozenset({1698})
+653,frozenset({1698}),"frozenset({88444, 70509})"
+654,frozenset({88444}),"frozenset({1698, 70509})"
+655,frozenset({70509}),"frozenset({1698, 88444})"
+656,"frozenset({1698, 70509})",frozenset({88623})
+657,"frozenset({1698, 88623})",frozenset({70509})
+658,"frozenset({70509, 88623})",frozenset({1698})
+659,frozenset({1698}),"frozenset({70509, 88623})"
+660,frozenset({70509}),"frozenset({1698, 88623})"
+661,frozenset({88623}),"frozenset({1698, 70509})"
+662,"frozenset({1698, 88676})",frozenset({70509})
+663,"frozenset({1698, 70509})",frozenset({88676})
+664,"frozenset({88676, 70509})",frozenset({1698})
+665,frozenset({1698}),"frozenset({88676, 70509})"
+666,frozenset({88676}),"frozenset({1698, 70509})"
+667,frozenset({70509}),"frozenset({1698, 88676})"
+668,"frozenset({1698, 135492})",frozenset({70509})
+669,"frozenset({1698, 70509})",frozenset({135492})
+670,"frozenset({135492, 70509})",frozenset({1698})
+671,frozenset({1698}),"frozenset({135492, 70509})"
+672,frozenset({135492}),"frozenset({1698, 70509})"
+673,frozenset({70509}),"frozenset({1698, 135492})"
+674,"frozenset({1698, 135493})",frozenset({70509})
+675,"frozenset({1698, 70509})",frozenset({135493})
+676,"frozenset({135493, 70509})",frozenset({1698})
+677,frozenset({1698}),"frozenset({135493, 70509})"
+678,frozenset({135493}),"frozenset({1698, 70509})"
+679,frozenset({70509}),"frozenset({1698, 135493})"
+680,"frozenset({1698, 70509})",frozenset({135789})
+681,"frozenset({1698, 135789})",frozenset({70509})
+682,"frozenset({70509, 135789})",frozenset({1698})
+683,frozenset({1698}),"frozenset({70509, 135789})"
+684,frozenset({70509}),"frozenset({1698, 135789})"
+685,frozenset({135789}),"frozenset({1698, 70509})"
+686,"frozenset({1698, 88411})",frozenset({88444})
+687,"frozenset({1698, 88444})",frozenset({88411})
+688,"frozenset({88411, 88444})",frozenset({1698})
+689,frozenset({1698}),"frozenset({88411, 88444})"
+690,frozenset({88411}),"frozenset({1698, 88444})"
+691,frozenset({88444}),"frozenset({1698, 88411})"
+692,"frozenset({1698, 88411})",frozenset({88676})
+693,"frozenset({1698, 88676})",frozenset({88411})
+694,"frozenset({88411, 88676})",frozenset({1698})
+695,frozenset({1698}),"frozenset({88411, 88676})"
+696,frozenset({88411}),"frozenset({1698, 88676})"
+697,frozenset({88676}),"frozenset({1698, 88411})"
+698,"frozenset({1698, 88411})",frozenset({135492})
+699,"frozenset({1698, 135492})",frozenset({88411})
+700,"frozenset({88411, 135492})",frozenset({1698})
+701,frozenset({1698}),"frozenset({88411, 135492})"
+702,frozenset({88411}),"frozenset({1698, 135492})"
+703,frozenset({135492}),"frozenset({1698, 88411})"
+704,"frozenset({1698, 88411})",frozenset({135493})
+705,"frozenset({1698, 135493})",frozenset({88411})
+706,"frozenset({88411, 135493})",frozenset({1698})
+707,frozenset({1698}),"frozenset({88411, 135493})"
+708,frozenset({88411}),"frozenset({1698, 135493})"
+709,frozenset({135493}),"frozenset({1698, 88411})"
+710,"frozenset({1698, 88411})",frozenset({135789})
+711,"frozenset({1698, 135789})",frozenset({88411})
+712,"frozenset({88411, 135789})",frozenset({1698})
+713,frozenset({1698}),"frozenset({88411, 135789})"
+714,frozenset({88411}),"frozenset({1698, 135789})"
+715,frozenset({135789}),"frozenset({1698, 88411})"
+716,"frozenset({1707, 23004})",frozenset({70509})
+717,"frozenset({1707, 70509})",frozenset({23004})
+718,"frozenset({23004, 70509})",frozenset({1707})
+719,frozenset({1707}),"frozenset({23004, 70509})"
+720,frozenset({23004}),"frozenset({1707, 70509})"
+721,frozenset({70509}),"frozenset({1707, 23004})"
+722,"frozenset({88411, 1707})",frozenset({70509})
+723,"frozenset({88411, 70509})",frozenset({1707})
+724,"frozenset({1707, 70509})",frozenset({88411})
+725,frozenset({88411}),"frozenset({1707, 70509})"
+726,frozenset({1707}),"frozenset({88411, 70509})"
+727,frozenset({70509}),"frozenset({88411, 1707})"
+728,"frozenset({1708, 23004})",frozenset({70509})
+729,"frozenset({23004, 70509})",frozenset({1708})
+730,"frozenset({1708, 70509})",frozenset({23004})
+731,frozenset({23004}),"frozenset({1708, 70509})"
+732,frozenset({1708}),"frozenset({23004, 70509})"
+733,frozenset({70509}),"frozenset({1708, 23004})"
+734,"frozenset({88411, 1708})",frozenset({23004})
+735,"frozenset({88411, 23004})",frozenset({1708})
+736,"frozenset({23004, 1708})",frozenset({88411})
+737,frozenset({88411}),"frozenset({23004, 1708})"
+738,frozenset({1708}),"frozenset({88411, 23004})"
+739,frozenset({23004}),"frozenset({88411, 1708})"
+740,"frozenset({23004, 88444})",frozenset({1708})
+741,"frozenset({1708, 88444})",frozenset({23004})
+742,"frozenset({1708, 23004})",frozenset({88444})
+743,frozenset({88444}),"frozenset({1708, 23004})"
+744,frozenset({23004}),"frozenset({1708, 88444})"
+745,frozenset({1708}),"frozenset({23004, 88444})"
+746,"frozenset({88411, 1708})",frozenset({70509})
+747,"frozenset({88411, 70509})",frozenset({1708})
+748,"frozenset({1708, 70509})",frozenset({88411})
+749,frozenset({88411}),"frozenset({1708, 70509})"
+750,frozenset({1708}),"frozenset({88411, 70509})"
+751,frozenset({70509}),"frozenset({88411, 1708})"
+752,"frozenset({1708, 88444})",frozenset({70509})
+753,"frozenset({88444, 70509})",frozenset({1708})
+754,"frozenset({1708, 70509})",frozenset({88444})
+755,frozenset({88444}),"frozenset({1708, 70509})"
+756,frozenset({1708}),"frozenset({88444, 70509})"
+757,frozenset({70509}),"frozenset({1708, 88444})"
+758,"frozenset({88411, 88444})",frozenset({1708})
+759,"frozenset({1708, 88444})",frozenset({88411})
+760,"frozenset({88411, 1708})",frozenset({88444})
+761,frozenset({88444}),"frozenset({88411, 1708})"
+762,frozenset({88411}),"frozenset({1708, 88444})"
+763,frozenset({1708}),"frozenset({88411, 88444})"
+764,"frozenset({88411, 70509})",frozenset({1755})
+765,"frozenset({88411, 1755})",frozenset({70509})
+766,"frozenset({1755, 70509})",frozenset({88411})
+767,frozenset({88411}),"frozenset({1755, 70509})"
+768,frozenset({70509}),"frozenset({88411, 1755})"
+769,frozenset({1755}),"frozenset({88411, 70509})"
+770,"frozenset({1755, 135493})",frozenset({70509})
+771,"frozenset({1755, 70509})",frozenset({135493})
+772,"frozenset({135493, 70509})",frozenset({1755})
+773,frozenset({1755}),"frozenset({135493, 70509})"
+774,frozenset({135493}),"frozenset({1755, 70509})"
+775,frozenset({70509}),"frozenset({1755, 135493})"
+776,"frozenset({88411, 1755})",frozenset({88622})
+777,"frozenset({1755, 88622})",frozenset({88411})
+778,"frozenset({88411, 88622})",frozenset({1755})
+779,frozenset({1755}),"frozenset({88411, 88622})"
+780,frozenset({88411}),"frozenset({1755, 88622})"
+781,frozenset({88622}),"frozenset({88411, 1755})"
+782,"frozenset({88411, 1755})",frozenset({88623})
+783,"frozenset({88411, 88623})",frozenset({1755})
+784,"frozenset({1755, 88623})",frozenset({88411})
+785,frozenset({88411}),"frozenset({1755, 88623})"
+786,frozenset({1755}),"frozenset({88411, 88623})"
+787,frozenset({88623}),"frozenset({88411, 1755})"
+788,"frozenset({88411, 88676})",frozenset({1755})
+789,"frozenset({88411, 1755})",frozenset({88676})
+790,"frozenset({1755, 88676})",frozenset({88411})
+791,frozenset({88411}),"frozenset({1755, 88676})"
+792,frozenset({88676}),"frozenset({88411, 1755})"
+793,frozenset({1755}),"frozenset({88411, 88676})"
+794,"frozenset({88411, 135492})",frozenset({1755})
+795,"frozenset({88411, 1755})",frozenset({135492})
+796,"frozenset({1755, 135492})",frozenset({88411})
+797,frozenset({88411}),"frozenset({1755, 135492})"
+798,frozenset({135492}),"frozenset({88411, 1755})"
+799,frozenset({1755}),"frozenset({88411, 135492})"
+800,"frozenset({88411, 135493})",frozenset({1755})
+801,"frozenset({88411, 1755})",frozenset({135493})
+802,"frozenset({1755, 135493})",frozenset({88411})
+803,frozenset({88411}),"frozenset({1755, 135493})"
+804,frozenset({135493}),"frozenset({88411, 1755})"
+805,frozenset({1755}),"frozenset({88411, 135493})"
+806,"frozenset({88411, 1755})",frozenset({135494})
+807,"frozenset({1755, 135494})",frozenset({88411})
+808,"frozenset({88411, 135494})",frozenset({1755})
+809,frozenset({1755}),"frozenset({88411, 135494})"
+810,frozenset({88411}),"frozenset({1755, 135494})"
+811,frozenset({135494}),"frozenset({88411, 1755})"
+812,"frozenset({88411, 1755})",frozenset({135495})
+813,"frozenset({88411, 135495})",frozenset({1755})
+814,"frozenset({1755, 135495})",frozenset({88411})
+815,frozenset({88411}),"frozenset({1755, 135495})"
+816,frozenset({1755}),"frozenset({88411, 135495})"
+817,frozenset({135495}),"frozenset({88411, 1755})"
+818,"frozenset({88411, 135501})",frozenset({1755})
+819,"frozenset({88411, 1755})",frozenset({135501})
+820,"frozenset({1755, 135501})",frozenset({88411})
+821,frozenset({88411}),"frozenset({1755, 135501})"
+822,frozenset({135501}),"frozenset({88411, 1755})"
+823,frozenset({1755}),"frozenset({88411, 135501})"
+824,"frozenset({88411, 1755})",frozenset({135503})
+825,"frozenset({88411, 135503})",frozenset({1755})
+826,"frozenset({1755, 135503})",frozenset({88411})
+827,frozenset({88411}),"frozenset({1755, 135503})"
+828,frozenset({1755}),"frozenset({88411, 135503})"
+829,frozenset({135503}),"frozenset({88411, 1755})"
+830,"frozenset({135505, 88411})",frozenset({1755})
+831,"frozenset({135505, 1755})",frozenset({88411})
+832,"frozenset({88411, 1755})",frozenset({135505})
+833,frozenset({135505}),"frozenset({88411, 1755})"
+834,frozenset({88411}),"frozenset({135505, 1755})"
+835,frozenset({1755}),"frozenset({135505, 88411})"
+836,"frozenset({88411, 135507})",frozenset({1755})
+837,"frozenset({135507, 1755})",frozenset({88411})
+838,"frozenset({88411, 1755})",frozenset({135507})
+839,frozenset({135507}),"frozenset({88411, 1755})"
+840,frozenset({88411}),"frozenset({135507, 1755})"
+841,frozenset({1755}),"frozenset({88411, 135507})"
+842,"frozenset({88411, 135789})",frozenset({1755})
+843,"frozenset({88411, 1755})",frozenset({135789})
+844,"frozenset({1755, 135789})",frozenset({88411})
+845,frozenset({88411}),"frozenset({1755, 135789})"
+846,frozenset({135789}),"frozenset({88411, 1755})"
+847,frozenset({1755}),"frozenset({88411, 135789})"
+848,"frozenset({88411, 1755})",frozenset({3216486})
+849,"frozenset({1755, 3216486})",frozenset({88411})
+850,"frozenset({88411, 3216486})",frozenset({1755})
+851,frozenset({1755}),"frozenset({88411, 3216486})"
+852,frozenset({88411}),"frozenset({1755, 3216486})"
+853,frozenset({3216486}),"frozenset({88411, 1755})"
+854,"frozenset({88411, 3336149})",frozenset({1755})
+855,"frozenset({88411, 1755})",frozenset({3336149})
+856,"frozenset({1755, 3336149})",frozenset({88411})
+857,frozenset({88411}),"frozenset({1755, 3336149})"
+858,frozenset({3336149}),"frozenset({88411, 1755})"
+859,frozenset({1755}),"frozenset({88411, 3336149})"
+860,"frozenset({88411, 15021876})",frozenset({1755})
+861,"frozenset({88411, 1755})",frozenset({15021876})
+862,"frozenset({1755, 15021876})",frozenset({88411})
+863,frozenset({88411}),"frozenset({1755, 15021876})"
+864,frozenset({15021876}),"frozenset({88411, 1755})"
+865,frozenset({1755}),"frozenset({88411, 15021876})"
+866,"frozenset({1755, 88622})",frozenset({88623})
+867,"frozenset({1755, 88623})",frozenset({88622})
+868,"frozenset({88622, 88623})",frozenset({1755})
+869,frozenset({1755}),"frozenset({88622, 88623})"
+870,frozenset({88622}),"frozenset({1755, 88623})"
+871,frozenset({88623}),"frozenset({1755, 88622})"
+872,"frozenset({1755, 88676})",frozenset({135493})
+873,"frozenset({1755, 135493})",frozenset({88676})
+874,"frozenset({88676, 135493})",frozenset({1755})
+875,frozenset({1755}),"frozenset({88676, 135493})"
+876,frozenset({88676}),"frozenset({1755, 135493})"
+877,frozenset({135493}),"frozenset({1755, 88676})"
+878,"frozenset({135505, 1755})",frozenset({135493})
+879,"frozenset({135505, 135493})",frozenset({1755})
+880,"frozenset({1755, 135493})",frozenset({135505})
+881,frozenset({135505}),"frozenset({1755, 135493})"
+882,frozenset({1755}),"frozenset({135505, 135493})"
+883,frozenset({135493}),"frozenset({135505, 1755})"
+884,"frozenset({23004, 70509})",frozenset({70126})
+885,"frozenset({23004, 70126})",frozenset({70509})
+886,"frozenset({70509, 70126})",frozenset({23004})
+887,frozenset({23004}),"frozenset({70509, 70126})"
+888,frozenset({70509}),"frozenset({23004, 70126})"
+889,frozenset({70126}),"frozenset({23004, 70509})"
+890,"frozenset({88411, 23004})",frozenset({70509})
+891,"frozenset({88411, 70509})",frozenset({23004})
+892,"frozenset({23004, 70509})",frozenset({88411})
+893,frozenset({88411}),"frozenset({23004, 70509})"
+894,frozenset({23004}),"frozenset({88411, 70509})"
+895,frozenset({70509}),"frozenset({88411, 23004})"
+896,"frozenset({88444, 23004})",frozenset({70509})
+897,"frozenset({23004, 70509})",frozenset({88444})
+898,"frozenset({88444, 70509})",frozenset({23004})
+899,frozenset({23004}),"frozenset({88444, 70509})"
+900,frozenset({88444}),"frozenset({23004, 70509})"
+901,frozenset({70509}),"frozenset({88444, 23004})"
+902,"frozenset({70448, 88411})",frozenset({70509})
+903,"frozenset({70448, 70509})",frozenset({88411})
+904,"frozenset({88411, 70509})",frozenset({70448})
+905,frozenset({70448}),"frozenset({88411, 70509})"
+906,frozenset({88411}),"frozenset({70448, 70509})"
+907,frozenset({70509}),"frozenset({70448, 88411})"
+908,"frozenset({88411, 70509})",frozenset({87118})
+909,"frozenset({88411, 87118})",frozenset({70509})
+910,"frozenset({70509, 87118})",frozenset({88411})
+911,frozenset({88411}),"frozenset({70509, 87118})"
+912,frozenset({70509}),"frozenset({88411, 87118})"
+913,frozenset({87118}),"frozenset({88411, 70509})"
+914,"frozenset({70509, 87118})",frozenset({88623})
+915,"frozenset({70509, 88623})",frozenset({87118})
+916,"frozenset({87118, 88623})",frozenset({70509})
+917,frozenset({70509}),"frozenset({87118, 88623})"
+918,frozenset({87118}),"frozenset({70509, 88623})"
+919,frozenset({88623}),"frozenset({70509, 87118})"
+920,"frozenset({3336149, 87118})",frozenset({70509})
+921,"frozenset({70509, 87118})",frozenset({3336149})
+922,"frozenset({3336149, 70509})",frozenset({87118})
+923,frozenset({87118}),"frozenset({3336149, 70509})"
+924,frozenset({3336149}),"frozenset({70509, 87118})"
+925,frozenset({70509}),"frozenset({3336149, 87118})"
+926,"frozenset({88411, 70509})",frozenset({88443})
+927,"frozenset({88411, 88443})",frozenset({70509})
+928,"frozenset({88443, 70509})",frozenset({88411})
+929,frozenset({88411}),"frozenset({88443, 70509})"
+930,frozenset({70509}),"frozenset({88411, 88443})"
+931,frozenset({88443}),"frozenset({88411, 70509})"
+932,"frozenset({88411, 88444})",frozenset({70509})
+933,"frozenset({88411, 70509})",frozenset({88444})
+934,"frozenset({88444, 70509})",frozenset({88411})
+935,frozenset({88411}),"frozenset({88444, 70509})"
+936,frozenset({88444}),"frozenset({88411, 70509})"
+937,frozenset({70509}),"frozenset({88411, 88444})"
+938,"frozenset({88411, 70509})",frozenset({88622})
+939,"frozenset({88411, 88622})",frozenset({70509})
+940,"frozenset({70509, 88622})",frozenset({88411})
+941,frozenset({88411}),"frozenset({70509, 88622})"
+942,frozenset({70509}),"frozenset({88411, 88622})"
+943,frozenset({88622}),"frozenset({88411, 70509})"
+944,"frozenset({88411, 70509})",frozenset({88623})
+945,"frozenset({88411, 88623})",frozenset({70509})
+946,"frozenset({70509, 88623})",frozenset({88411})
+947,frozenset({88411}),"frozenset({70509, 88623})"
+948,frozenset({70509}),"frozenset({88411, 88623})"
+949,frozenset({88623}),"frozenset({88411, 70509})"
+950,"frozenset({88411, 70509})",frozenset({88675})
+951,"frozenset({88411, 88675})",frozenset({70509})
+952,"frozenset({88675, 70509})",frozenset({88411})
+953,frozenset({88411}),"frozenset({88675, 70509})"
+954,frozenset({70509}),"frozenset({88411, 88675})"
+955,frozenset({88675}),"frozenset({88411, 70509})"
+956,"frozenset({88411, 88676})",frozenset({70509})
+957,"frozenset({88411, 70509})",frozenset({88676})
+958,"frozenset({88676, 70509})",frozenset({88411})
+959,frozenset({88411}),"frozenset({88676, 70509})"
+960,frozenset({88676}),"frozenset({88411, 70509})"
+961,frozenset({70509}),"frozenset({88411, 88676})"
+962,"frozenset({88411, 135492})",frozenset({70509})
+963,"frozenset({88411, 70509})",frozenset({135492})
+964,"frozenset({135492, 70509})",frozenset({88411})
+965,frozenset({88411}),"frozenset({135492, 70509})"
+966,frozenset({135492}),"frozenset({88411, 70509})"
+967,frozenset({70509}),"frozenset({88411, 135492})"
+968,"frozenset({88411, 135493})",frozenset({70509})
+969,"frozenset({88411, 70509})",frozenset({135493})
+970,"frozenset({135493, 70509})",frozenset({88411})
+971,frozenset({88411}),"frozenset({135493, 70509})"
+972,frozenset({135493}),"frozenset({88411, 70509})"
+973,frozenset({70509}),"frozenset({88411, 135493})"
+974,"frozenset({88411, 70509})",frozenset({135494})
+975,"frozenset({88411, 135494})",frozenset({70509})
+976,"frozenset({70509, 135494})",frozenset({88411})
+977,frozenset({88411}),"frozenset({70509, 135494})"
+978,frozenset({70509}),"frozenset({88411, 135494})"
+979,frozenset({135494}),"frozenset({88411, 70509})"
+980,"frozenset({88411, 70509})",frozenset({135495})
+981,"frozenset({88411, 135495})",frozenset({70509})
+982,"frozenset({70509, 135495})",frozenset({88411})
+983,frozenset({88411}),"frozenset({70509, 135495})"
+984,frozenset({70509}),"frozenset({88411, 135495})"
+985,frozenset({135495}),"frozenset({88411, 70509})"
+986,"frozenset({88411, 135501})",frozenset({70509})
+987,"frozenset({88411, 70509})",frozenset({135501})
+988,"frozenset({135501, 70509})",frozenset({88411})
+989,frozenset({88411}),"frozenset({135501, 70509})"
+990,frozenset({135501}),"frozenset({88411, 70509})"
+991,frozenset({70509}),"frozenset({88411, 135501})"
+992,"frozenset({88411, 70509})",frozenset({135503})
+993,"frozenset({88411, 135503})",frozenset({70509})
+994,"frozenset({70509, 135503})",frozenset({88411})
+995,frozenset({88411}),"frozenset({70509, 135503})"
+996,frozenset({70509}),"frozenset({88411, 135503})"
+997,frozenset({135503}),"frozenset({88411, 70509})"
+998,"frozenset({135505, 88411})",frozenset({70509})
+999,"frozenset({135505, 70509})",frozenset({88411})
+1000,"frozenset({88411, 70509})",frozenset({135505})
+1001,frozenset({135505}),"frozenset({88411, 70509})"
+1002,frozenset({88411}),"frozenset({135505, 70509})"
+1003,frozenset({70509}),"frozenset({135505, 88411})"
+1004,"frozenset({88411, 135507})",frozenset({70509})
+1005,"frozenset({135507, 70509})",frozenset({88411})
+1006,"frozenset({88411, 70509})",frozenset({135507})
+1007,frozenset({135507}),"frozenset({88411, 70509})"
+1008,frozenset({88411}),"frozenset({135507, 70509})"
+1009,frozenset({70509}),"frozenset({88411, 135507})"
+1010,"frozenset({88411, 70509})",frozenset({135789})
+1011,"frozenset({88411, 135789})",frozenset({70509})
+1012,"frozenset({70509, 135789})",frozenset({88411})
+1013,frozenset({88411}),"frozenset({70509, 135789})"
+1014,frozenset({70509}),"frozenset({88411, 135789})"
+1015,frozenset({135789}),"frozenset({88411, 70509})"
+1016,"frozenset({88411, 3336149})",frozenset({70509})
+1017,"frozenset({3336149, 70509})",frozenset({88411})
+1018,"frozenset({88411, 70509})",frozenset({3336149})
+1019,frozenset({3336149}),"frozenset({88411, 70509})"
+1020,frozenset({88411}),"frozenset({3336149, 70509})"
+1021,frozenset({70509}),"frozenset({88411, 3336149})"
+1022,"frozenset({15021864, 88411})",frozenset({70509})
+1023,"frozenset({15021864, 70509})",frozenset({88411})
+1024,"frozenset({88411, 70509})",frozenset({15021864})
+1025,frozenset({15021864}),"frozenset({88411, 70509})"
+1026,frozenset({88411}),"frozenset({15021864, 70509})"
+1027,frozenset({70509}),"frozenset({15021864, 88411})"
+1028,"frozenset({70509, 88622})",frozenset({88623})
+1029,"frozenset({70509, 88623})",frozenset({88622})
+1030,"frozenset({88622, 88623})",frozenset({70509})
+1031,frozenset({70509}),"frozenset({88622, 88623})"
+1032,frozenset({88622}),"frozenset({70509, 88623})"
+1033,frozenset({88623}),"frozenset({70509, 88622})"
+1034,"frozenset({70509, 135494})",frozenset({88622})
+1035,"frozenset({88622, 135494})",frozenset({70509})
+1036,"frozenset({70509, 88622})",frozenset({135494})
+1037,frozenset({135494}),"frozenset({70509, 88622})"
+1038,frozenset({70509}),"frozenset({88622, 135494})"
+1039,frozenset({88622}),"frozenset({70509, 135494})"
+1040,"frozenset({3336149, 70509})",frozenset({88622})
+1041,"frozenset({3336149, 88622})",frozenset({70509})
+1042,"frozenset({70509, 88622})",frozenset({3336149})
+1043,frozenset({3336149}),"frozenset({70509, 88622})"
+1044,frozenset({70509}),"frozenset({3336149, 88622})"
+1045,frozenset({88622}),"frozenset({3336149, 70509})"
+1046,"frozenset({88676, 70509})",frozenset({88623})
+1047,"frozenset({88676, 88623})",frozenset({70509})
+1048,"frozenset({70509, 88623})",frozenset({88676})
+1049,frozenset({88676}),"frozenset({70509, 88623})"
+1050,frozenset({70509}),"frozenset({88676, 88623})"
+1051,frozenset({88623}),"frozenset({88676, 70509})"
+1052,"frozenset({135492, 70509})",frozenset({88623})
+1053,"frozenset({135492, 88623})",frozenset({70509})
+1054,"frozenset({70509, 88623})",frozenset({135492})
+1055,frozenset({135492}),"frozenset({70509, 88623})"
+1056,frozenset({70509}),"frozenset({135492, 88623})"
+1057,frozenset({88623}),"frozenset({135492, 70509})"
+1058,"frozenset({135493, 70509})",frozenset({88623})
+1059,"frozenset({135493, 88623})",frozenset({70509})
+1060,"frozenset({70509, 88623})",frozenset({135493})
+1061,frozenset({135493}),"frozenset({70509, 88623})"
+1062,frozenset({70509}),"frozenset({135493, 88623})"
+1063,frozenset({88623}),"frozenset({135493, 70509})"
+1064,"frozenset({70509, 135494})",frozenset({88623})
+1065,"frozenset({70509, 88623})",frozenset({135494})
+1066,"frozenset({135494, 88623})",frozenset({70509})
+1067,frozenset({70509}),"frozenset({135494, 88623})"
+1068,frozenset({135494}),"frozenset({70509, 88623})"
+1069,frozenset({88623}),"frozenset({70509, 135494})"
+1070,"frozenset({70509, 88623})",frozenset({135495})
+1071,"frozenset({135495, 88623})",frozenset({70509})
+1072,"frozenset({70509, 135495})",frozenset({88623})
+1073,frozenset({88623}),"frozenset({70509, 135495})"
+1074,frozenset({70509}),"frozenset({135495, 88623})"
+1075,frozenset({135495}),"frozenset({70509, 88623})"
+1076,"frozenset({3336149, 70509})",frozenset({88623})
+1077,"frozenset({3336149, 88623})",frozenset({70509})
+1078,"frozenset({70509, 88623})",frozenset({3336149})
+1079,frozenset({3336149}),"frozenset({70509, 88623})"
+1080,frozenset({70509}),"frozenset({3336149, 88623})"
+1081,frozenset({88623}),"frozenset({3336149, 70509})"
+1082,"frozenset({88676, 70509})",frozenset({135492})
+1083,"frozenset({88676, 135492})",frozenset({70509})
+1084,"frozenset({135492, 70509})",frozenset({88676})
+1085,frozenset({88676}),"frozenset({135492, 70509})"
+1086,frozenset({70509}),"frozenset({88676, 135492})"
+1087,frozenset({135492}),"frozenset({88676, 70509})"
+1088,"frozenset({88676, 135493})",frozenset({70509})
+1089,"frozenset({88676, 70509})",frozenset({135493})
+1090,"frozenset({135493, 70509})",frozenset({88676})
+1091,frozenset({88676}),"frozenset({135493, 70509})"
+1092,frozenset({135493}),"frozenset({88676, 70509})"
+1093,frozenset({70509}),"frozenset({88676, 135493})"
+1094,"frozenset({135505, 88676})",frozenset({70509})
+1095,"frozenset({135505, 70509})",frozenset({88676})
+1096,"frozenset({88676, 70509})",frozenset({135505})
+1097,frozenset({135505}),"frozenset({88676, 70509})"
+1098,frozenset({88676}),"frozenset({135505, 70509})"
+1099,frozenset({70509}),"frozenset({135505, 88676})"
+1100,"frozenset({88676, 135789})",frozenset({70509})
+1101,"frozenset({88676, 70509})",frozenset({135789})
+1102,"frozenset({135789, 70509})",frozenset({88676})
+1103,frozenset({88676}),"frozenset({135789, 70509})"
+1104,frozenset({135789}),"frozenset({88676, 70509})"
+1105,frozenset({70509}),"frozenset({88676, 135789})"
+1106,"frozenset({135492, 135493})",frozenset({70509})
+1107,"frozenset({135492, 70509})",frozenset({135493})
+1108,"frozenset({135493, 70509})",frozenset({135492})
+1109,frozenset({135492}),"frozenset({135493, 70509})"
+1110,frozenset({135493}),"frozenset({135492, 70509})"
+1111,frozenset({70509}),"frozenset({135492, 135493})"
+1112,"frozenset({135492, 70509})",frozenset({135494})
+1113,"frozenset({135492, 135494})",frozenset({70509})
+1114,"frozenset({70509, 135494})",frozenset({135492})
+1115,frozenset({135492}),"frozenset({70509, 135494})"
+1116,frozenset({70509}),"frozenset({135492, 135494})"
+1117,frozenset({135494}),"frozenset({135492, 70509})"
+1118,"frozenset({135492, 3336149})",frozenset({70509})
+1119,"frozenset({3336149, 70509})",frozenset({135492})
+1120,"frozenset({135492, 70509})",frozenset({3336149})
+1121,frozenset({3336149}),"frozenset({135492, 70509})"
+1122,frozenset({135492}),"frozenset({3336149, 70509})"
+1123,frozenset({70509}),"frozenset({135492, 3336149})"
+1124,"frozenset({135493, 135494})",frozenset({70509})
+1125,"frozenset({70509, 135494})",frozenset({135493})
+1126,"frozenset({135493, 70509})",frozenset({135494})
+1127,frozenset({135494}),"frozenset({135493, 70509})"
+1128,frozenset({135493}),"frozenset({70509, 135494})"
+1129,frozenset({70509}),"frozenset({135493, 135494})"
+1130,"frozenset({135493, 70509})",frozenset({135503})
+1131,"frozenset({135493, 135503})",frozenset({70509})
+1132,"frozenset({70509, 135503})",frozenset({135493})
+1133,frozenset({135493}),"frozenset({70509, 135503})"
+1134,frozenset({70509}),"frozenset({135493, 135503})"
+1135,frozenset({135503}),"frozenset({135493, 70509})"
+1136,"frozenset({135505, 135493})",frozenset({70509})
+1137,"frozenset({135505, 70509})",frozenset({135493})
+1138,"frozenset({135493, 70509})",frozenset({135505})
+1139,frozenset({135505}),"frozenset({135493, 70509})"
+1140,frozenset({135493}),"frozenset({135505, 70509})"
+1141,frozenset({70509}),"frozenset({135505, 135493})"
+1142,"frozenset({135493, 135789})",frozenset({70509})
+1143,"frozenset({135789, 70509})",frozenset({135493})
+1144,"frozenset({135493, 70509})",frozenset({135789})
+1145,frozenset({135789}),"frozenset({135493, 70509})"
+1146,frozenset({135493}),"frozenset({135789, 70509})"
+1147,frozenset({70509}),"frozenset({135493, 135789})"
+1148,"frozenset({135493, 3336149})",frozenset({70509})
+1149,"frozenset({3336149, 70509})",frozenset({135493})
+1150,"frozenset({135493, 70509})",frozenset({3336149})
+1151,frozenset({3336149}),"frozenset({135493, 70509})"
+1152,frozenset({135493}),"frozenset({3336149, 70509})"
+1153,frozenset({70509}),"frozenset({135493, 3336149})"
+1154,"frozenset({3336149, 70509})",frozenset({135495})
+1155,"frozenset({3336149, 135495})",frozenset({70509})
+1156,"frozenset({70509, 135495})",frozenset({3336149})
+1157,frozenset({3336149}),"frozenset({70509, 135495})"
+1158,frozenset({70509}),"frozenset({3336149, 135495})"
+1159,frozenset({135495}),"frozenset({3336149, 70509})"
+1160,"frozenset({88411, 3336149})",frozenset({87118})
+1161,"frozenset({88411, 87118})",frozenset({3336149})
+1162,"frozenset({3336149, 87118})",frozenset({88411})
+1163,frozenset({88411}),"frozenset({3336149, 87118})"
+1164,frozenset({3336149}),"frozenset({88411, 87118})"
+1165,frozenset({87118}),"frozenset({88411, 3336149})"
+1166,"frozenset({88411, 88676})",frozenset({88443})
+1167,"frozenset({88411, 88443})",frozenset({88676})
+1168,"frozenset({88443, 88676})",frozenset({88411})
+1169,frozenset({88411}),"frozenset({88443, 88676})"
+1170,frozenset({88676}),"frozenset({88411, 88443})"
+1171,frozenset({88443}),"frozenset({88411, 88676})"
+1172,"frozenset({88411, 135493})",frozenset({88443})
+1173,"frozenset({88411, 88443})",frozenset({135493})
+1174,"frozenset({88443, 135493})",frozenset({88411})
+1175,frozenset({88411}),"frozenset({88443, 135493})"
+1176,frozenset({135493}),"frozenset({88411, 88443})"
+1177,frozenset({88443}),"frozenset({88411, 135493})"
+1178,"frozenset({88411, 88622})",frozenset({88623})
+1179,"frozenset({88411, 88623})",frozenset({88622})
+1180,"frozenset({88622, 88623})",frozenset({88411})
+1181,frozenset({88411}),"frozenset({88622, 88623})"
+1182,frozenset({88622}),"frozenset({88411, 88623})"
+1183,frozenset({88623}),"frozenset({88411, 88622})"
+1184,"frozenset({88411, 88676})",frozenset({88623})
+1185,"frozenset({88411, 88623})",frozenset({88676})
+1186,"frozenset({88676, 88623})",frozenset({88411})
+1187,frozenset({88411}),"frozenset({88676, 88623})"
+1188,frozenset({88676}),"frozenset({88411, 88623})"
+1189,frozenset({88623}),"frozenset({88411, 88676})"
+1190,"frozenset({88411, 135492})",frozenset({88623})
+1191,"frozenset({88411, 88623})",frozenset({135492})
+1192,"frozenset({135492, 88623})",frozenset({88411})
+1193,frozenset({88411}),"frozenset({135492, 88623})"
+1194,frozenset({135492}),"frozenset({88411, 88623})"
+1195,frozenset({88623}),"frozenset({88411, 135492})"
+1196,"frozenset({88411, 135493})",frozenset({88623})
+1197,"frozenset({88411, 88623})",frozenset({135493})
+1198,"frozenset({135493, 88623})",frozenset({88411})
+1199,frozenset({88411}),"frozenset({135493, 88623})"
+1200,frozenset({135493}),"frozenset({88411, 88623})"
+1201,frozenset({88623}),"frozenset({88411, 135493})"
+1202,"frozenset({88411, 88623})",frozenset({135495})
+1203,"frozenset({88411, 135495})",frozenset({88623})
+1204,"frozenset({135495, 88623})",frozenset({88411})
+1205,frozenset({88411}),"frozenset({135495, 88623})"
+1206,frozenset({88623}),"frozenset({88411, 135495})"
+1207,frozenset({135495}),"frozenset({88411, 88623})"
+1208,"frozenset({88411, 3336149})",frozenset({88623})
+1209,"frozenset({88411, 88623})",frozenset({3336149})
+1210,"frozenset({3336149, 88623})",frozenset({88411})
+1211,frozenset({88411}),"frozenset({3336149, 88623})"
+1212,frozenset({3336149}),"frozenset({88411, 88623})"
+1213,frozenset({88623}),"frozenset({88411, 3336149})"
+1214,"frozenset({88411, 15021876})",frozenset({88623})
+1215,"frozenset({88411, 88623})",frozenset({15021876})
+1216,"frozenset({15021876, 88623})",frozenset({88411})
+1217,frozenset({88411}),"frozenset({15021876, 88623})"
+1218,frozenset({15021876}),"frozenset({88411, 88623})"
+1219,frozenset({88623}),"frozenset({88411, 15021876})"
+1220,"frozenset({88411, 88676})",frozenset({135492})
+1221,"frozenset({88411, 135492})",frozenset({88676})
+1222,"frozenset({88676, 135492})",frozenset({88411})
+1223,frozenset({88411}),"frozenset({88676, 135492})"
+1224,frozenset({88676}),"frozenset({88411, 135492})"
+1225,frozenset({135492}),"frozenset({88411, 88676})"
+1226,"frozenset({88411, 88676})",frozenset({135493})
+1227,"frozenset({88411, 135493})",frozenset({88676})
+1228,"frozenset({88676, 135493})",frozenset({88411})
+1229,frozenset({88411}),"frozenset({88676, 135493})"
+1230,frozenset({88676}),"frozenset({88411, 135493})"
+1231,frozenset({135493}),"frozenset({88411, 88676})"
+1232,"frozenset({135505, 88411})",frozenset({88676})
+1233,"frozenset({135505, 88676})",frozenset({88411})
+1234,"frozenset({88411, 88676})",frozenset({135505})
+1235,frozenset({135505}),"frozenset({88411, 88676})"
+1236,frozenset({88411}),"frozenset({135505, 88676})"
+1237,frozenset({88676}),"frozenset({135505, 88411})"
+1238,"frozenset({88411, 135507})",frozenset({88676})
+1239,"frozenset({135507, 88676})",frozenset({88411})
+1240,"frozenset({88411, 88676})",frozenset({135507})
+1241,frozenset({135507}),"frozenset({88411, 88676})"
+1242,frozenset({88411}),"frozenset({135507, 88676})"
+1243,frozenset({88676}),"frozenset({88411, 135507})"
+1244,"frozenset({88411, 88676})",frozenset({135789})
+1245,"frozenset({88411, 135789})",frozenset({88676})
+1246,"frozenset({88676, 135789})",frozenset({88411})
+1247,frozenset({88411}),"frozenset({88676, 135789})"
+1248,frozenset({88676}),"frozenset({88411, 135789})"
+1249,frozenset({135789}),"frozenset({88411, 88676})"
+1250,"frozenset({88411, 135492})",frozenset({135493})
+1251,"frozenset({88411, 135493})",frozenset({135492})
+1252,"frozenset({135492, 135493})",frozenset({88411})
+1253,frozenset({88411}),"frozenset({135492, 135493})"
+1254,frozenset({135492}),"frozenset({88411, 135493})"
+1255,frozenset({135493}),"frozenset({88411, 135492})"
+1256,"frozenset({88411, 135492})",frozenset({3336149})
+1257,"frozenset({88411, 3336149})",frozenset({135492})
+1258,"frozenset({135492, 3336149})",frozenset({88411})
+1259,frozenset({88411}),"frozenset({135492, 3336149})"
+1260,frozenset({135492}),"frozenset({88411, 3336149})"
+1261,frozenset({3336149}),"frozenset({88411, 135492})"
+1262,"frozenset({88411, 135501})",frozenset({135493})
+1263,"frozenset({88411, 135493})",frozenset({135501})
+1264,"frozenset({135493, 135501})",frozenset({88411})
+1265,frozenset({88411}),"frozenset({135493, 135501})"
+1266,frozenset({135501}),"frozenset({88411, 135493})"
+1267,frozenset({135493}),"frozenset({88411, 135501})"
+1268,"frozenset({88411, 135493})",frozenset({135503})
+1269,"frozenset({88411, 135503})",frozenset({135493})
+1270,"frozenset({135493, 135503})",frozenset({88411})
+1271,frozenset({88411}),"frozenset({135493, 135503})"
+1272,frozenset({135493}),"frozenset({88411, 135503})"
+1273,frozenset({135503}),"frozenset({88411, 135493})"
+1274,"frozenset({135505, 88411})",frozenset({135493})
+1275,"frozenset({135505, 135493})",frozenset({88411})
+1276,"frozenset({88411, 135493})",frozenset({135505})
+1277,frozenset({135505}),"frozenset({88411, 135493})"
+1278,frozenset({88411}),"frozenset({135505, 135493})"
+1279,frozenset({135493}),"frozenset({135505, 88411})"
+1280,"frozenset({88411, 135507})",frozenset({135493})
+1281,"frozenset({135507, 135493})",frozenset({88411})
+1282,"frozenset({88411, 135493})",frozenset({135507})
+1283,frozenset({135507}),"frozenset({88411, 135493})"
+1284,frozenset({88411}),"frozenset({135507, 135493})"
+1285,frozenset({135493}),"frozenset({88411, 135507})"
+1286,"frozenset({88411, 135493})",frozenset({135789})
+1287,"frozenset({88411, 135789})",frozenset({135493})
+1288,"frozenset({135493, 135789})",frozenset({88411})
+1289,frozenset({88411}),"frozenset({135493, 135789})"
+1290,frozenset({135493}),"frozenset({88411, 135789})"
+1291,frozenset({135789}),"frozenset({88411, 135493})"
+1292,"frozenset({88411, 3336149})",frozenset({135493})
+1293,"frozenset({135493, 3336149})",frozenset({88411})
+1294,"frozenset({88411, 135493})",frozenset({3336149})
+1295,frozenset({3336149}),"frozenset({88411, 135493})"
+1296,frozenset({88411}),"frozenset({135493, 3336149})"
+1297,frozenset({135493}),"frozenset({88411, 3336149})"
+1298,"frozenset({88411, 3336149})",frozenset({135495})
+1299,"frozenset({88411, 135495})",frozenset({3336149})
+1300,"frozenset({3336149, 135495})",frozenset({88411})
+1301,frozenset({88411}),"frozenset({3336149, 135495})"
+1302,frozenset({3336149}),"frozenset({88411, 135495})"
+1303,frozenset({135495}),"frozenset({88411, 3336149})"
+1304,"frozenset({88411, 15021876})",frozenset({135495})
+1305,"frozenset({88411, 135495})",frozenset({15021876})
+1306,"frozenset({15021876, 135495})",frozenset({88411})
+1307,frozenset({88411}),"frozenset({15021876, 135495})"
+1308,frozenset({15021876}),"frozenset({88411, 135495})"
+1309,frozenset({135495}),"frozenset({88411, 15021876})"
+1310,"frozenset({88675, 88622})",frozenset({88623})
+1311,"frozenset({88675, 88623})",frozenset({88622})
+1312,"frozenset({88622, 88623})",frozenset({88675})
+1313,frozenset({88675}),"frozenset({88622, 88623})"
+1314,frozenset({88622}),"frozenset({88675, 88623})"
+1315,frozenset({88623}),"frozenset({88675, 88622})"
+1316,"frozenset({88676, 88622})",frozenset({88623})
+1317,"frozenset({88676, 88623})",frozenset({88622})
+1318,"frozenset({88622, 88623})",frozenset({88676})
+1319,frozenset({88676}),"frozenset({88622, 88623})"
+1320,frozenset({88622}),"frozenset({88676, 88623})"
+1321,frozenset({88623}),"frozenset({88676, 88622})"
+1322,"frozenset({135492, 88622})",frozenset({88623})
+1323,"frozenset({135492, 88623})",frozenset({88622})
+1324,"frozenset({88622, 88623})",frozenset({135492})
+1325,frozenset({135492}),"frozenset({88622, 88623})"
+1326,frozenset({88622}),"frozenset({135492, 88623})"
+1327,frozenset({88623}),"frozenset({135492, 88622})"
+1328,"frozenset({135493, 88622})",frozenset({88623})
+1329,"frozenset({135493, 88623})",frozenset({88622})
+1330,"frozenset({88622, 88623})",frozenset({135493})
+1331,frozenset({135493}),"frozenset({88622, 88623})"
+1332,frozenset({88622}),"frozenset({135493, 88623})"
+1333,frozenset({88623}),"frozenset({135493, 88622})"
+1334,"frozenset({135494, 88622})",frozenset({88623})
+1335,"frozenset({88622, 88623})",frozenset({135494})
+1336,"frozenset({135494, 88623})",frozenset({88622})
+1337,frozenset({88622}),"frozenset({135494, 88623})"
+1338,frozenset({135494}),"frozenset({88622, 88623})"
+1339,frozenset({88623}),"frozenset({135494, 88622})"
+1340,"frozenset({88622, 88623})",frozenset({135495})
+1341,"frozenset({135495, 88623})",frozenset({88622})
+1342,"frozenset({88622, 135495})",frozenset({88623})
+1343,frozenset({88623}),"frozenset({88622, 135495})"
+1344,frozenset({88622}),"frozenset({135495, 88623})"
+1345,frozenset({135495}),"frozenset({88622, 88623})"
+1346,"frozenset({3336149, 88622})",frozenset({88623})
+1347,"frozenset({3336149, 88623})",frozenset({88622})
+1348,"frozenset({88622, 88623})",frozenset({3336149})
+1349,frozenset({3336149}),"frozenset({88622, 88623})"
+1350,frozenset({88622}),"frozenset({3336149, 88623})"
+1351,frozenset({88623}),"frozenset({3336149, 88622})"
+1352,"frozenset({88676, 135493})",frozenset({88623})
+1353,"frozenset({88676, 88623})",frozenset({135493})
+1354,"frozenset({135493, 88623})",frozenset({88676})
+1355,frozenset({88676}),"frozenset({135493, 88623})"
+1356,frozenset({135493}),"frozenset({88676, 88623})"
+1357,frozenset({88623}),"frozenset({88676, 135493})"
+1358,"frozenset({135492, 135493})",frozenset({88623})
+1359,"frozenset({135492, 88623})",frozenset({135493})
+1360,"frozenset({135493, 88623})",frozenset({135492})
+1361,frozenset({135492}),"frozenset({135493, 88623})"
+1362,frozenset({135493}),"frozenset({135492, 88623})"
+1363,frozenset({88623}),"frozenset({135492, 135493})"
+1364,"frozenset({135492, 3336149})",frozenset({88623})
+1365,"frozenset({135492, 88623})",frozenset({3336149})
+1366,"frozenset({3336149, 88623})",frozenset({135492})
+1367,frozenset({135492}),"frozenset({3336149, 88623})"
+1368,frozenset({3336149}),"frozenset({135492, 88623})"
+1369,frozenset({88623}),"frozenset({135492, 3336149})"
+1370,"frozenset({88676, 135493})",frozenset({135492})
+1371,"frozenset({88676, 135492})",frozenset({135493})
+1372,"frozenset({135492, 135493})",frozenset({88676})
+1373,frozenset({88676}),"frozenset({135492, 135493})"
+1374,frozenset({135493}),"frozenset({88676, 135492})"
+1375,frozenset({135492}),"frozenset({88676, 135493})"
+1376,"frozenset({88676, 3336149})",frozenset({135492})
+1377,"frozenset({88676, 135492})",frozenset({3336149})
+1378,"frozenset({135492, 3336149})",frozenset({88676})
+1379,frozenset({88676}),"frozenset({135492, 3336149})"
+1380,frozenset({3336149}),"frozenset({88676, 135492})"
+1381,frozenset({135492}),"frozenset({88676, 3336149})"
+1382,"frozenset({135505, 88676})",frozenset({135493})
+1383,"frozenset({135505, 135493})",frozenset({88676})
+1384,"frozenset({88676, 135493})",frozenset({135505})
+1385,frozenset({135505}),"frozenset({88676, 135493})"
+1386,frozenset({88676}),"frozenset({135505, 135493})"
+1387,frozenset({135493}),"frozenset({135505, 88676})"
+1388,"frozenset({88676, 135493})",frozenset({135789})
+1389,"frozenset({88676, 135789})",frozenset({135493})
+1390,"frozenset({135493, 135789})",frozenset({88676})
+1391,frozenset({88676}),"frozenset({135493, 135789})"
+1392,frozenset({135493}),"frozenset({88676, 135789})"
+1393,frozenset({135789}),"frozenset({88676, 135493})"
+1394,"frozenset({135505, 135492})",frozenset({135493})
+1395,"frozenset({135505, 135493})",frozenset({135492})
+1396,"frozenset({135492, 135493})",frozenset({135505})
+1397,frozenset({135505}),"frozenset({135492, 135493})"
+1398,frozenset({135492}),"frozenset({135505, 135493})"
+1399,frozenset({135493}),"frozenset({135505, 135492})"
+1400,"frozenset({135492, 3336149})",frozenset({135493})
+1401,"frozenset({135493, 3336149})",frozenset({135492})
+1402,"frozenset({135492, 135493})",frozenset({3336149})
+1403,frozenset({3336149}),"frozenset({135492, 135493})"
+1404,frozenset({135492}),"frozenset({135493, 3336149})"
+1405,frozenset({135493}),"frozenset({135492, 3336149})"
+1406,"frozenset({15157064, 14481833})",frozenset({15192100})
+1407,"frozenset({15157064, 15192100})",frozenset({14481833})
+1408,"frozenset({14481833, 15192100})",frozenset({15157064})
+1409,frozenset({15157064}),"frozenset({14481833, 15192100})"
+1410,frozenset({14481833}),"frozenset({15157064, 15192100})"
+1411,frozenset({15192100}),"frozenset({15157064, 14481833})"
+1412,"frozenset({14671860, 15192100})",frozenset({14980086})
+1413,"frozenset({15192100, 14980086})",frozenset({14671860})
+1414,"frozenset({14671860, 14980086})",frozenset({15192100})
+1415,frozenset({15192100}),"frozenset({14671860, 14980086})"
+1416,frozenset({14671860}),"frozenset({15192100, 14980086})"
+1417,frozenset({14980086}),"frozenset({14671860, 15192100})"
+1418,"frozenset({14675955, 15192100})",frozenset({14980086})
+1419,"frozenset({14675955, 14980086})",frozenset({15192100})
+1420,"frozenset({15192100, 14980086})",frozenset({14675955})
+1421,frozenset({14675955}),"frozenset({15192100, 14980086})"
+1422,frozenset({15192100}),"frozenset({14675955, 14980086})"
+1423,frozenset({14980086}),"frozenset({14675955, 15192100})"
+1424,"frozenset({15194056, 15192100})",frozenset({14980086})
+1425,"frozenset({15194056, 14980086})",frozenset({15192100})
+1426,"frozenset({15192100, 14980086})",frozenset({15194056})
+1427,frozenset({15194056}),"frozenset({15192100, 14980086})"
+1428,frozenset({15192100}),"frozenset({15194056, 14980086})"
+1429,frozenset({14980086}),"frozenset({15194056, 15192100})"
+1430,"frozenset({1697, 1698, 88411})",frozenset({70509})
+1431,"frozenset({1697, 1698, 70509})",frozenset({88411})
+1432,"frozenset({1697, 88411, 70509})",frozenset({1698})
+1433,"frozenset({1698, 88411, 70509})",frozenset({1697})
+1434,"frozenset({1697, 1698})","frozenset({88411, 70509})"
+1435,"frozenset({1697, 88411})","frozenset({1698, 70509})"
+1436,"frozenset({1697, 70509})","frozenset({1698, 88411})"
+1437,"frozenset({1698, 88411})","frozenset({1697, 70509})"
+1438,"frozenset({1698, 70509})","frozenset({1697, 88411})"
+1439,"frozenset({88411, 70509})","frozenset({1697, 1698})"
+1440,frozenset({1697}),"frozenset({1698, 88411, 70509})"
+1441,frozenset({1698}),"frozenset({1697, 88411, 70509})"
+1442,frozenset({88411}),"frozenset({1697, 1698, 70509})"
+1443,frozenset({70509}),"frozenset({1697, 1698, 88411})"
+1444,"frozenset({1697, 88411, 23004})",frozenset({70509})
+1445,"frozenset({1697, 88411, 70509})",frozenset({23004})
+1446,"frozenset({1697, 23004, 70509})",frozenset({88411})
+1447,"frozenset({88411, 23004, 70509})",frozenset({1697})
+1448,"frozenset({1697, 88411})","frozenset({23004, 70509})"
+1449,"frozenset({1697, 23004})","frozenset({88411, 70509})"
+1450,"frozenset({1697, 70509})","frozenset({88411, 23004})"
+1451,"frozenset({88411, 23004})","frozenset({1697, 70509})"
+1452,"frozenset({88411, 70509})","frozenset({1697, 23004})"
+1453,"frozenset({23004, 70509})","frozenset({1697, 88411})"
+1454,frozenset({1697}),"frozenset({88411, 23004, 70509})"
+1455,frozenset({88411}),"frozenset({1697, 23004, 70509})"
+1456,frozenset({23004}),"frozenset({1697, 88411, 70509})"
+1457,frozenset({70509}),"frozenset({1697, 88411, 23004})"
+1458,"frozenset({1697, 88411, 88676})",frozenset({70509})
+1459,"frozenset({1697, 88411, 70509})",frozenset({88676})
+1460,"frozenset({1697, 88676, 70509})",frozenset({88411})
+1461,"frozenset({88411, 88676, 70509})",frozenset({1697})
+1462,"frozenset({1697, 88411})","frozenset({88676, 70509})"
+1463,"frozenset({1697, 88676})","frozenset({88411, 70509})"
+1464,"frozenset({1697, 70509})","frozenset({88411, 88676})"
+1465,"frozenset({88411, 88676})","frozenset({1697, 70509})"
+1466,"frozenset({88411, 70509})","frozenset({1697, 88676})"
+1467,"frozenset({88676, 70509})","frozenset({1697, 88411})"
+1468,frozenset({1697}),"frozenset({88411, 88676, 70509})"
+1469,frozenset({88411}),"frozenset({1697, 88676, 70509})"
+1470,frozenset({88676}),"frozenset({1697, 88411, 70509})"
+1471,frozenset({70509}),"frozenset({1697, 88411, 88676})"
+1472,"frozenset({1697, 88411, 135493})",frozenset({70509})
+1473,"frozenset({1697, 88411, 70509})",frozenset({135493})
+1474,"frozenset({1697, 135493, 70509})",frozenset({88411})
+1475,"frozenset({88411, 135493, 70509})",frozenset({1697})
+1476,"frozenset({1697, 88411})","frozenset({135493, 70509})"
+1477,"frozenset({1697, 135493})","frozenset({88411, 70509})"
+1478,"frozenset({1697, 70509})","frozenset({88411, 135493})"
+1479,"frozenset({88411, 135493})","frozenset({1697, 70509})"
+1480,"frozenset({88411, 70509})","frozenset({1697, 135493})"
+1481,"frozenset({135493, 70509})","frozenset({1697, 88411})"
+1482,frozenset({1697}),"frozenset({88411, 135493, 70509})"
+1483,frozenset({88411}),"frozenset({1697, 135493, 70509})"
+1484,frozenset({135493}),"frozenset({1697, 88411, 70509})"
+1485,frozenset({70509}),"frozenset({1697, 88411, 135493})"
+1486,"frozenset({1697, 88411, 70509})",frozenset({135789})
+1487,"frozenset({1697, 88411, 135789})",frozenset({70509})
+1488,"frozenset({1697, 70509, 135789})",frozenset({88411})
+1489,"frozenset({88411, 70509, 135789})",frozenset({1697})
+1490,"frozenset({1697, 88411})","frozenset({70509, 135789})"
+1491,"frozenset({1697, 70509})","frozenset({88411, 135789})"
+1492,"frozenset({1697, 135789})","frozenset({88411, 70509})"
+1493,"frozenset({88411, 70509})","frozenset({1697, 135789})"
+1494,"frozenset({88411, 135789})","frozenset({1697, 70509})"
+1495,"frozenset({70509, 135789})","frozenset({1697, 88411})"
+1496,frozenset({1697}),"frozenset({88411, 70509, 135789})"
+1497,frozenset({88411}),"frozenset({1697, 70509, 135789})"
+1498,frozenset({70509}),"frozenset({1697, 88411, 135789})"
+1499,frozenset({135789}),"frozenset({1697, 88411, 70509})"
+1500,"frozenset({1697, 88676, 135493})",frozenset({70509})
+1501,"frozenset({1697, 88676, 70509})",frozenset({135493})
+1502,"frozenset({1697, 135493, 70509})",frozenset({88676})
+1503,"frozenset({88676, 135493, 70509})",frozenset({1697})
+1504,"frozenset({1697, 88676})","frozenset({135493, 70509})"
+1505,"frozenset({1697, 135493})","frozenset({88676, 70509})"
+1506,"frozenset({1697, 70509})","frozenset({88676, 135493})"
+1507,"frozenset({88676, 135493})","frozenset({1697, 70509})"
+1508,"frozenset({88676, 70509})","frozenset({1697, 135493})"
+1509,"frozenset({135493, 70509})","frozenset({1697, 88676})"
+1510,frozenset({1697}),"frozenset({88676, 135493, 70509})"
+1511,frozenset({88676}),"frozenset({1697, 135493, 70509})"
+1512,frozenset({135493}),"frozenset({1697, 88676, 70509})"
+1513,frozenset({70509}),"frozenset({1697, 88676, 135493})"
+1514,"frozenset({1697, 88411, 88676})",frozenset({135493})
+1515,"frozenset({1697, 88411, 135493})",frozenset({88676})
+1516,"frozenset({1697, 88676, 135493})",frozenset({88411})
+1517,"frozenset({88411, 88676, 135493})",frozenset({1697})
+1518,"frozenset({1697, 88411})","frozenset({88676, 135493})"
+1519,"frozenset({1697, 88676})","frozenset({88411, 135493})"
+1520,"frozenset({1697, 135493})","frozenset({88411, 88676})"
+1521,"frozenset({88411, 88676})","frozenset({1697, 135493})"
+1522,"frozenset({88411, 135493})","frozenset({1697, 88676})"
+1523,"frozenset({88676, 135493})","frozenset({1697, 88411})"
+1524,frozenset({1697}),"frozenset({88411, 88676, 135493})"
+1525,frozenset({88411}),"frozenset({1697, 88676, 135493})"
+1526,frozenset({88676}),"frozenset({1697, 88411, 135493})"
+1527,frozenset({135493}),"frozenset({1697, 88411, 88676})"
+1528,"frozenset({1698, 23004, 1708})",frozenset({70509})
+1529,"frozenset({1698, 23004, 70509})",frozenset({1708})
+1530,"frozenset({1698, 1708, 70509})",frozenset({23004})
+1531,"frozenset({1708, 23004, 70509})",frozenset({1698})
+1532,"frozenset({1698, 23004})","frozenset({1708, 70509})"
+1533,"frozenset({1698, 1708})","frozenset({23004, 70509})"
+1534,"frozenset({1698, 70509})","frozenset({1708, 23004})"
+1535,"frozenset({1708, 23004})","frozenset({1698, 70509})"
+1536,"frozenset({23004, 70509})","frozenset({1698, 1708})"
+1537,"frozenset({1708, 70509})","frozenset({1698, 23004})"
+1538,frozenset({1698}),"frozenset({1708, 23004, 70509})"
+1539,frozenset({23004}),"frozenset({1698, 1708, 70509})"
+1540,frozenset({1708}),"frozenset({1698, 23004, 70509})"
+1541,frozenset({70509}),"frozenset({1698, 23004, 1708})"
+1542,"frozenset({1698, 88411, 1708})",frozenset({70509})
+1543,"frozenset({1698, 88411, 70509})",frozenset({1708})
+1544,"frozenset({1698, 1708, 70509})",frozenset({88411})
+1545,"frozenset({88411, 1708, 70509})",frozenset({1698})
+1546,"frozenset({1698, 88411})","frozenset({1708, 70509})"
+1547,"frozenset({1698, 1708})","frozenset({88411, 70509})"
+1548,"frozenset({1698, 70509})","frozenset({88411, 1708})"
+1549,"frozenset({88411, 1708})","frozenset({1698, 70509})"
+1550,"frozenset({88411, 70509})","frozenset({1698, 1708})"
+1551,"frozenset({1708, 70509})","frozenset({1698, 88411})"
+1552,frozenset({1698}),"frozenset({88411, 1708, 70509})"
+1553,frozenset({88411}),"frozenset({1698, 1708, 70509})"
+1554,frozenset({1708}),"frozenset({1698, 88411, 70509})"
+1555,frozenset({70509}),"frozenset({1698, 88411, 1708})"
+1556,"frozenset({1698, 88444, 1708})",frozenset({70509})
+1557,"frozenset({1698, 88444, 70509})",frozenset({1708})
+1558,"frozenset({1708, 88444, 70509})",frozenset({1698})
+1559,"frozenset({1698, 1708, 70509})",frozenset({88444})
+1560,"frozenset({1698, 88444})","frozenset({1708, 70509})"
+1561,"frozenset({1708, 88444})","frozenset({1698, 70509})"
+1562,"frozenset({88444, 70509})","frozenset({1698, 1708})"
+1563,"frozenset({1698, 1708})","frozenset({88444, 70509})"
+1564,"frozenset({1698, 70509})","frozenset({1708, 88444})"
+1565,"frozenset({1708, 70509})","frozenset({1698, 88444})"
+1566,frozenset({88444}),"frozenset({1698, 1708, 70509})"
+1567,frozenset({1698}),"frozenset({1708, 88444, 70509})"
+1568,frozenset({1708}),"frozenset({1698, 88444, 70509})"
+1569,frozenset({70509}),"frozenset({1698, 88444, 1708})"
+1570,"frozenset({1698, 88411, 88444})",frozenset({1708})
+1571,"frozenset({1698, 88444, 1708})",frozenset({88411})
+1572,"frozenset({1708, 88411, 88444})",frozenset({1698})
+1573,"frozenset({1698, 88411, 1708})",frozenset({88444})
+1574,"frozenset({1698, 88444})","frozenset({88411, 1708})"
+1575,"frozenset({88411, 88444})","frozenset({1698, 1708})"
+1576,"frozenset({1708, 88444})","frozenset({1698, 88411})"
+1577,"frozenset({1698, 88411})","frozenset({1708, 88444})"
+1578,"frozenset({1698, 1708})","frozenset({88411, 88444})"
+1579,"frozenset({88411, 1708})","frozenset({1698, 88444})"
+1580,frozenset({88444}),"frozenset({1698, 88411, 1708})"
+1581,frozenset({1698}),"frozenset({1708, 88411, 88444})"
+1582,frozenset({88411}),"frozenset({1698, 88444, 1708})"
+1583,frozenset({1708}),"frozenset({1698, 88411, 88444})"
+1584,"frozenset({1698, 88411, 23004})",frozenset({70509})
+1585,"frozenset({1698, 88411, 70509})",frozenset({23004})
+1586,"frozenset({1698, 23004, 70509})",frozenset({88411})
+1587,"frozenset({88411, 23004, 70509})",frozenset({1698})
+1588,"frozenset({1698, 88411})","frozenset({23004, 70509})"
+1589,"frozenset({1698, 23004})","frozenset({88411, 70509})"
+1590,"frozenset({1698, 70509})","frozenset({88411, 23004})"
+1591,"frozenset({88411, 23004})","frozenset({1698, 70509})"
+1592,"frozenset({88411, 70509})","frozenset({1698, 23004})"
+1593,"frozenset({23004, 70509})","frozenset({1698, 88411})"
+1594,frozenset({1698}),"frozenset({88411, 23004, 70509})"
+1595,frozenset({88411}),"frozenset({1698, 23004, 70509})"
+1596,frozenset({23004}),"frozenset({1698, 88411, 70509})"
+1597,frozenset({70509}),"frozenset({1698, 88411, 23004})"
+1598,"frozenset({88444, 1698, 23004})",frozenset({70509})
+1599,"frozenset({1698, 23004, 70509})",frozenset({88444})
+1600,"frozenset({1698, 88444, 70509})",frozenset({23004})
+1601,"frozenset({88444, 23004, 70509})",frozenset({1698})
+1602,"frozenset({1698, 23004})","frozenset({88444, 70509})"
+1603,"frozenset({1698, 88444})","frozenset({23004, 70509})"
+1604,"frozenset({1698, 70509})","frozenset({88444, 23004})"
+1605,"frozenset({88444, 23004})","frozenset({1698, 70509})"
+1606,"frozenset({23004, 70509})","frozenset({1698, 88444})"
+1607,"frozenset({88444, 70509})","frozenset({1698, 23004})"
+1608,frozenset({1698}),"frozenset({88444, 23004, 70509})"
+1609,frozenset({23004}),"frozenset({1698, 88444, 70509})"
+1610,frozenset({88444}),"frozenset({1698, 23004, 70509})"
+1611,frozenset({70509}),"frozenset({88444, 1698, 23004})"
+1612,"frozenset({1698, 88411, 88444})",frozenset({70509})
+1613,"frozenset({1698, 88411, 70509})",frozenset({88444})
+1614,"frozenset({1698, 88444, 70509})",frozenset({88411})
+1615,"frozenset({88411, 88444, 70509})",frozenset({1698})
+1616,"frozenset({1698, 88411})","frozenset({88444, 70509})"
+1617,"frozenset({1698, 88444})","frozenset({88411, 70509})"
+1618,"frozenset({1698, 70509})","frozenset({88411, 88444})"
+1619,"frozenset({88411, 88444})","frozenset({1698, 70509})"
+1620,"frozenset({88411, 70509})","frozenset({1698, 88444})"
+1621,"frozenset({88444, 70509})","frozenset({1698, 88411})"
+1622,frozenset({1698}),"frozenset({88411, 88444, 70509})"
+1623,frozenset({88411}),"frozenset({1698, 88444, 70509})"
+1624,frozenset({88444}),"frozenset({1698, 88411, 70509})"
+1625,frozenset({70509}),"frozenset({1698, 88411, 88444})"
+1626,"frozenset({1698, 88411, 135492})",frozenset({70509})
+1627,"frozenset({1698, 88411, 70509})",frozenset({135492})
+1628,"frozenset({1698, 135492, 70509})",frozenset({88411})
+1629,"frozenset({88411, 135492, 70509})",frozenset({1698})
+1630,"frozenset({1698, 88411})","frozenset({135492, 70509})"
+1631,"frozenset({1698, 135492})","frozenset({88411, 70509})"
+1632,"frozenset({1698, 70509})","frozenset({88411, 135492})"
+1633,"frozenset({88411, 135492})","frozenset({1698, 70509})"
+1634,"frozenset({88411, 70509})","frozenset({1698, 135492})"
+1635,"frozenset({135492, 70509})","frozenset({1698, 88411})"
+1636,frozenset({1698}),"frozenset({88411, 135492, 70509})"
+1637,frozenset({88411}),"frozenset({1698, 135492, 70509})"
+1638,frozenset({135492}),"frozenset({1698, 88411, 70509})"
+1639,frozenset({70509}),"frozenset({1698, 88411, 135492})"
+1640,"frozenset({1698, 88411, 135493})",frozenset({70509})
+1641,"frozenset({1698, 88411, 70509})",frozenset({135493})
+1642,"frozenset({1698, 135493, 70509})",frozenset({88411})
+1643,"frozenset({88411, 135493, 70509})",frozenset({1698})
+1644,"frozenset({1698, 88411})","frozenset({135493, 70509})"
+1645,"frozenset({1698, 135493})","frozenset({88411, 70509})"
+1646,"frozenset({1698, 70509})","frozenset({88411, 135493})"
+1647,"frozenset({88411, 135493})","frozenset({1698, 70509})"
+1648,"frozenset({88411, 70509})","frozenset({1698, 135493})"
+1649,"frozenset({135493, 70509})","frozenset({1698, 88411})"
+1650,frozenset({1698}),"frozenset({88411, 135493, 70509})"
+1651,frozenset({88411}),"frozenset({1698, 135493, 70509})"
+1652,frozenset({135493}),"frozenset({1698, 88411, 70509})"
+1653,frozenset({70509}),"frozenset({1698, 88411, 135493})"
+1654,"frozenset({1698, 88411, 70509})",frozenset({135789})
+1655,"frozenset({1698, 88411, 135789})",frozenset({70509})
+1656,"frozenset({1698, 70509, 135789})",frozenset({88411})
+1657,"frozenset({88411, 70509, 135789})",frozenset({1698})
+1658,"frozenset({1698, 88411})","frozenset({70509, 135789})"
+1659,"frozenset({1698, 70509})","frozenset({88411, 135789})"
+1660,"frozenset({1698, 135789})","frozenset({88411, 70509})"
+1661,"frozenset({88411, 70509})","frozenset({1698, 135789})"
+1662,"frozenset({88411, 135789})","frozenset({1698, 70509})"
+1663,"frozenset({70509, 135789})","frozenset({1698, 88411})"
+1664,frozenset({1698}),"frozenset({88411, 70509, 135789})"
+1665,frozenset({88411}),"frozenset({1698, 70509, 135789})"
+1666,frozenset({70509}),"frozenset({1698, 88411, 135789})"
+1667,frozenset({135789}),"frozenset({1698, 88411, 70509})"
+1668,"frozenset({88411, 1708, 70509})",frozenset({23004})
+1669,"frozenset({88411, 1708, 23004})",frozenset({70509})
+1670,"frozenset({88411, 23004, 70509})",frozenset({1708})
+1671,"frozenset({23004, 1708, 70509})",frozenset({88411})
+1672,"frozenset({88411, 1708})","frozenset({23004, 70509})"
+1673,"frozenset({88411, 70509})","frozenset({23004, 1708})"
+1674,"frozenset({88411, 23004})","frozenset({1708, 70509})"
+1675,"frozenset({1708, 70509})","frozenset({88411, 23004})"
+1676,"frozenset({23004, 1708})","frozenset({88411, 70509})"
+1677,"frozenset({23004, 70509})","frozenset({88411, 1708})"
+1678,frozenset({88411}),"frozenset({23004, 1708, 70509})"
+1679,frozenset({1708}),"frozenset({88411, 23004, 70509})"
+1680,frozenset({70509}),"frozenset({88411, 1708, 23004})"
+1681,frozenset({23004}),"frozenset({88411, 1708, 70509})"
+1682,"frozenset({1708, 23004, 88444})",frozenset({70509})
+1683,"frozenset({23004, 88444, 70509})",frozenset({1708})
+1684,"frozenset({1708, 88444, 70509})",frozenset({23004})
+1685,"frozenset({1708, 23004, 70509})",frozenset({88444})
+1686,"frozenset({23004, 88444})","frozenset({1708, 70509})"
+1687,"frozenset({1708, 88444})","frozenset({23004, 70509})"
+1688,"frozenset({88444, 70509})","frozenset({1708, 23004})"
+1689,"frozenset({1708, 23004})","frozenset({88444, 70509})"
+1690,"frozenset({23004, 70509})","frozenset({1708, 88444})"
+1691,"frozenset({1708, 70509})","frozenset({23004, 88444})"
+1692,frozenset({88444}),"frozenset({1708, 23004, 70509})"
+1693,frozenset({23004}),"frozenset({1708, 88444, 70509})"
+1694,frozenset({1708}),"frozenset({23004, 88444, 70509})"
+1695,frozenset({70509}),"frozenset({1708, 23004, 88444})"
+1696,"frozenset({1708, 88411, 88444})",frozenset({70509})
+1697,"frozenset({88411, 88444, 70509})",frozenset({1708})
+1698,"frozenset({1708, 88444, 70509})",frozenset({88411})
+1699,"frozenset({88411, 1708, 70509})",frozenset({88444})
+1700,"frozenset({88411, 88444})","frozenset({1708, 70509})"
+1701,"frozenset({1708, 88444})","frozenset({88411, 70509})"
+1702,"frozenset({88444, 70509})","frozenset({88411, 1708})"
+1703,"frozenset({88411, 1708})","frozenset({88444, 70509})"
+1704,"frozenset({88411, 70509})","frozenset({1708, 88444})"
+1705,"frozenset({1708, 70509})","frozenset({88411, 88444})"
+1706,frozenset({88444}),"frozenset({88411, 1708, 70509})"
+1707,frozenset({88411}),"frozenset({1708, 88444, 70509})"
+1708,frozenset({1708}),"frozenset({88411, 88444, 70509})"
+1709,frozenset({70509}),"frozenset({1708, 88411, 88444})"
+1710,"frozenset({88411, 135493, 70509})",frozenset({1755})
+1711,"frozenset({88411, 135493, 1755})",frozenset({70509})
+1712,"frozenset({88411, 70509, 1755})",frozenset({135493})
+1713,"frozenset({1755, 135493, 70509})",frozenset({88411})
+1714,"frozenset({88411, 135493})","frozenset({1755, 70509})"
+1715,"frozenset({88411, 70509})","frozenset({1755, 135493})"
+1716,"frozenset({88411, 1755})","frozenset({135493, 70509})"
+1717,"frozenset({135493, 70509})","frozenset({88411, 1755})"
+1718,"frozenset({1755, 135493})","frozenset({88411, 70509})"
+1719,"frozenset({1755, 70509})","frozenset({88411, 135493})"
+1720,frozenset({88411}),"frozenset({1755, 135493, 70509})"
+1721,frozenset({135493}),"frozenset({88411, 70509, 1755})"
+1722,frozenset({70509}),"frozenset({88411, 135493, 1755})"
+1723,frozenset({1755}),"frozenset({88411, 135493, 70509})"
+1724,"frozenset({88411, 1755, 88622})",frozenset({88623})
+1725,"frozenset({88411, 1755, 88623})",frozenset({88622})
+1726,"frozenset({1755, 88622, 88623})",frozenset({88411})
+1727,"frozenset({88411, 88622, 88623})",frozenset({1755})
+1728,"frozenset({88411, 1755})","frozenset({88622, 88623})"
+1729,"frozenset({1755, 88622})","frozenset({88411, 88623})"
+1730,"frozenset({1755, 88623})","frozenset({88411, 88622})"
+1731,"frozenset({88411, 88622})","frozenset({1755, 88623})"
+1732,"frozenset({88411, 88623})","frozenset({1755, 88622})"
+1733,"frozenset({88622, 88623})","frozenset({88411, 1755})"
+1734,frozenset({1755}),"frozenset({88411, 88622, 88623})"
+1735,frozenset({88411}),"frozenset({1755, 88622, 88623})"
+1736,frozenset({88622}),"frozenset({88411, 1755, 88623})"
+1737,frozenset({88623}),"frozenset({88411, 1755, 88622})"
+1738,"frozenset({88411, 88676, 135493})",frozenset({1755})
+1739,"frozenset({88411, 88676, 1755})",frozenset({135493})
+1740,"frozenset({88411, 135493, 1755})",frozenset({88676})
+1741,"frozenset({1755, 88676, 135493})",frozenset({88411})
+1742,"frozenset({88411, 88676})","frozenset({1755, 135493})"
+1743,"frozenset({88411, 135493})","frozenset({1755, 88676})"
+1744,"frozenset({88411, 1755})","frozenset({88676, 135493})"
+1745,"frozenset({88676, 135493})","frozenset({88411, 1755})"
+1746,"frozenset({1755, 88676})","frozenset({88411, 135493})"
+1747,"frozenset({1755, 135493})","frozenset({88411, 88676})"
+1748,frozenset({88411}),"frozenset({1755, 88676, 135493})"
+1749,frozenset({88676}),"frozenset({88411, 135493, 1755})"
+1750,frozenset({135493}),"frozenset({88411, 88676, 1755})"
+1751,frozenset({1755}),"frozenset({88411, 88676, 135493})"
+1752,"frozenset({88411, 3336149, 70509})",frozenset({87118})
+1753,"frozenset({88411, 3336149, 87118})",frozenset({70509})
+1754,"frozenset({87118, 3336149, 70509})",frozenset({88411})
+1755,"frozenset({88411, 70509, 87118})",frozenset({3336149})
+1756,"frozenset({88411, 3336149})","frozenset({70509, 87118})"
+1757,"frozenset({3336149, 70509})","frozenset({88411, 87118})"
+1758,"frozenset({3336149, 87118})","frozenset({88411, 70509})"
+1759,"frozenset({88411, 70509})","frozenset({3336149, 87118})"
+1760,"frozenset({88411, 87118})","frozenset({3336149, 70509})"
+1761,"frozenset({70509, 87118})","frozenset({88411, 3336149})"
+1762,frozenset({3336149}),"frozenset({88411, 70509, 87118})"
+1763,frozenset({88411}),"frozenset({87118, 3336149, 70509})"
+1764,frozenset({70509}),"frozenset({88411, 3336149, 87118})"
+1765,frozenset({87118}),"frozenset({88411, 3336149, 70509})"
+1766,"frozenset({88411, 70509, 88622})",frozenset({88623})
+1767,"frozenset({88411, 70509, 88623})",frozenset({88622})
+1768,"frozenset({88411, 88622, 88623})",frozenset({70509})
+1769,"frozenset({70509, 88622, 88623})",frozenset({88411})
+1770,"frozenset({88411, 70509})","frozenset({88622, 88623})"
+1771,"frozenset({88411, 88622})","frozenset({70509, 88623})"
+1772,"frozenset({88411, 88623})","frozenset({70509, 88622})"
+1773,"frozenset({70509, 88622})","frozenset({88411, 88623})"
+1774,"frozenset({70509, 88623})","frozenset({88411, 88622})"
+1775,"frozenset({88622, 88623})","frozenset({88411, 70509})"
+1776,frozenset({88411}),"frozenset({70509, 88622, 88623})"
+1777,frozenset({70509}),"frozenset({88411, 88622, 88623})"
+1778,frozenset({88622}),"frozenset({88411, 70509, 88623})"
+1779,frozenset({88623}),"frozenset({88411, 70509, 88622})"
+1780,"frozenset({88411, 135492, 70509})",frozenset({88623})
+1781,"frozenset({88411, 135492, 88623})",frozenset({70509})
+1782,"frozenset({88411, 70509, 88623})",frozenset({135492})
+1783,"frozenset({135492, 70509, 88623})",frozenset({88411})
+1784,"frozenset({88411, 135492})","frozenset({70509, 88623})"
+1785,"frozenset({88411, 70509})","frozenset({135492, 88623})"
+1786,"frozenset({88411, 88623})","frozenset({135492, 70509})"
+1787,"frozenset({135492, 70509})","frozenset({88411, 88623})"
+1788,"frozenset({135492, 88623})","frozenset({88411, 70509})"
+1789,"frozenset({70509, 88623})","frozenset({88411, 135492})"
+1790,frozenset({88411}),"frozenset({135492, 70509, 88623})"
+1791,frozenset({135492}),"frozenset({88411, 70509, 88623})"
+1792,frozenset({70509}),"frozenset({88411, 135492, 88623})"
+1793,frozenset({88623}),"frozenset({88411, 135492, 70509})"
+1794,"frozenset({88411, 135493, 70509})",frozenset({88623})
+1795,"frozenset({88411, 135493, 88623})",frozenset({70509})
+1796,"frozenset({88411, 70509, 88623})",frozenset({135493})
+1797,"frozenset({135493, 70509, 88623})",frozenset({88411})
+1798,"frozenset({88411, 135493})","frozenset({70509, 88623})"
+1799,"frozenset({88411, 70509})","frozenset({135493, 88623})"
+1800,"frozenset({88411, 88623})","frozenset({135493, 70509})"
+1801,"frozenset({135493, 70509})","frozenset({88411, 88623})"
+1802,"frozenset({135493, 88623})","frozenset({88411, 70509})"
+1803,"frozenset({70509, 88623})","frozenset({88411, 135493})"
+1804,frozenset({88411}),"frozenset({135493, 70509, 88623})"
+1805,frozenset({135493}),"frozenset({88411, 70509, 88623})"
+1806,frozenset({70509}),"frozenset({88411, 135493, 88623})"
+1807,frozenset({88623}),"frozenset({88411, 135493, 70509})"
+1808,"frozenset({88411, 3336149, 70509})",frozenset({88623})
+1809,"frozenset({88411, 3336149, 88623})",frozenset({70509})
+1810,"frozenset({3336149, 70509, 88623})",frozenset({88411})
+1811,"frozenset({88411, 70509, 88623})",frozenset({3336149})
+1812,"frozenset({88411, 3336149})","frozenset({70509, 88623})"
+1813,"frozenset({3336149, 70509})","frozenset({88411, 88623})"
+1814,"frozenset({3336149, 88623})","frozenset({88411, 70509})"
+1815,"frozenset({88411, 70509})","frozenset({3336149, 88623})"
+1816,"frozenset({88411, 88623})","frozenset({3336149, 70509})"
+1817,"frozenset({70509, 88623})","frozenset({88411, 3336149})"
+1818,frozenset({3336149}),"frozenset({88411, 70509, 88623})"
+1819,frozenset({88411}),"frozenset({3336149, 70509, 88623})"
+1820,frozenset({70509}),"frozenset({88411, 3336149, 88623})"
+1821,frozenset({88623}),"frozenset({88411, 3336149, 70509})"
+1822,"frozenset({88411, 88676, 70509})",frozenset({135492})
+1823,"frozenset({88411, 88676, 135492})",frozenset({70509})
+1824,"frozenset({88411, 135492, 70509})",frozenset({88676})
+1825,"frozenset({88676, 70509, 135492})",frozenset({88411})
+1826,"frozenset({88411, 88676})","frozenset({135492, 70509})"
+1827,"frozenset({88411, 70509})","frozenset({88676, 135492})"
+1828,"frozenset({88411, 135492})","frozenset({88676, 70509})"
+1829,"frozenset({88676, 70509})","frozenset({88411, 135492})"
+1830,"frozenset({88676, 135492})","frozenset({88411, 70509})"
+1831,"frozenset({135492, 70509})","frozenset({88411, 88676})"
+1832,frozenset({88411}),"frozenset({88676, 70509, 135492})"
+1833,frozenset({88676}),"frozenset({88411, 135492, 70509})"
+1834,frozenset({70509}),"frozenset({88411, 88676, 135492})"
+1835,frozenset({135492}),"frozenset({88411, 88676, 70509})"
+1836,"frozenset({88411, 88676, 135493})",frozenset({70509})
+1837,"frozenset({88411, 88676, 70509})",frozenset({135493})
+1838,"frozenset({88676, 135493, 70509})",frozenset({88411})
+1839,"frozenset({88411, 135493, 70509})",frozenset({88676})
+1840,"frozenset({88411, 88676})","frozenset({135493, 70509})"
+1841,"frozenset({88676, 135493})","frozenset({88411, 70509})"
+1842,"frozenset({88676, 70509})","frozenset({88411, 135493})"
+1843,"frozenset({88411, 135493})","frozenset({88676, 70509})"
+1844,"frozenset({88411, 70509})","frozenset({88676, 135493})"
+1845,"frozenset({135493, 70509})","frozenset({88411, 88676})"
+1846,frozenset({88676}),"frozenset({88411, 135493, 70509})"
+1847,frozenset({88411}),"frozenset({88676, 135493, 70509})"
+1848,frozenset({135493}),"frozenset({88411, 88676, 70509})"
+1849,frozenset({70509}),"frozenset({88411, 88676, 135493})"
+1850,"frozenset({88411, 88676, 70509})",frozenset({135789})
+1851,"frozenset({88411, 88676, 135789})",frozenset({70509})
+1852,"frozenset({88411, 70509, 135789})",frozenset({88676})
+1853,"frozenset({88676, 70509, 135789})",frozenset({88411})
+1854,"frozenset({88411, 88676})","frozenset({70509, 135789})"
+1855,"frozenset({88411, 70509})","frozenset({88676, 135789})"
+1856,"frozenset({88411, 135789})","frozenset({88676, 70509})"
+1857,"frozenset({88676, 70509})","frozenset({88411, 135789})"
+1858,"frozenset({88676, 135789})","frozenset({88411, 70509})"
+1859,"frozenset({70509, 135789})","frozenset({88411, 88676})"
+1860,frozenset({88411}),"frozenset({88676, 70509, 135789})"
+1861,frozenset({88676}),"frozenset({88411, 70509, 135789})"
+1862,frozenset({70509}),"frozenset({88411, 88676, 135789})"
+1863,frozenset({135789}),"frozenset({88411, 88676, 70509})"
+1864,"frozenset({88411, 135493, 70509})",frozenset({135492})
+1865,"frozenset({88411, 135492, 135493})",frozenset({70509})
+1866,"frozenset({88411, 135492, 70509})",frozenset({135493})
+1867,"frozenset({135492, 135493, 70509})",frozenset({88411})
+1868,"frozenset({88411, 135493})","frozenset({135492, 70509})"
+1869,"frozenset({88411, 70509})","frozenset({135492, 135493})"
+1870,"frozenset({88411, 135492})","frozenset({135493, 70509})"
+1871,"frozenset({135493, 70509})","frozenset({88411, 135492})"
+1872,"frozenset({135492, 135493})","frozenset({88411, 70509})"
+1873,"frozenset({135492, 70509})","frozenset({88411, 135493})"
+1874,frozenset({88411}),"frozenset({135492, 135493, 70509})"
+1875,frozenset({135493}),"frozenset({88411, 135492, 70509})"
+1876,frozenset({70509}),"frozenset({88411, 135492, 135493})"
+1877,frozenset({135492}),"frozenset({88411, 135493, 70509})"
+1878,"frozenset({88411, 135492, 3336149})",frozenset({70509})
+1879,"frozenset({88411, 3336149, 70509})",frozenset({135492})
+1880,"frozenset({135492, 3336149, 70509})",frozenset({88411})
+1881,"frozenset({88411, 135492, 70509})",frozenset({3336149})
+1882,"frozenset({88411, 3336149})","frozenset({135492, 70509})"
+1883,"frozenset({135492, 3336149})","frozenset({88411, 70509})"
+1884,"frozenset({3336149, 70509})","frozenset({88411, 135492})"
+1885,"frozenset({88411, 135492})","frozenset({3336149, 70509})"
+1886,"frozenset({88411, 70509})","frozenset({135492, 3336149})"
+1887,"frozenset({135492, 70509})","frozenset({88411, 3336149})"
+1888,frozenset({3336149}),"frozenset({88411, 135492, 70509})"
+1889,frozenset({88411}),"frozenset({135492, 3336149, 70509})"
+1890,frozenset({135492}),"frozenset({88411, 3336149, 70509})"
+1891,frozenset({70509}),"frozenset({88411, 135492, 3336149})"
+1892,"frozenset({88411, 135493, 70509})",frozenset({135503})
+1893,"frozenset({88411, 135493, 135503})",frozenset({70509})
+1894,"frozenset({88411, 70509, 135503})",frozenset({135493})
+1895,"frozenset({135493, 70509, 135503})",frozenset({88411})
+1896,"frozenset({88411, 135493})","frozenset({70509, 135503})"
+1897,"frozenset({88411, 70509})","frozenset({135493, 135503})"
+1898,"frozenset({88411, 135503})","frozenset({135493, 70509})"
+1899,"frozenset({135493, 70509})","frozenset({88411, 135503})"
+1900,"frozenset({135493, 135503})","frozenset({88411, 70509})"
+1901,"frozenset({70509, 135503})","frozenset({88411, 135493})"
+1902,frozenset({88411}),"frozenset({135493, 70509, 135503})"
+1903,frozenset({135493}),"frozenset({88411, 70509, 135503})"
+1904,frozenset({70509}),"frozenset({88411, 135493, 135503})"
+1905,frozenset({135503}),"frozenset({88411, 135493, 70509})"
+1906,"frozenset({135505, 88411, 135493})",frozenset({70509})
+1907,"frozenset({135505, 88411, 70509})",frozenset({135493})
+1908,"frozenset({135505, 135493, 70509})",frozenset({88411})
+1909,"frozenset({88411, 135493, 70509})",frozenset({135505})
+1910,"frozenset({135505, 88411})","frozenset({135493, 70509})"
+1911,"frozenset({135505, 135493})","frozenset({88411, 70509})"
+1912,"frozenset({135505, 70509})","frozenset({88411, 135493})"
+1913,"frozenset({88411, 135493})","frozenset({135505, 70509})"
+1914,"frozenset({88411, 70509})","frozenset({135505, 135493})"
+1915,"frozenset({135493, 70509})","frozenset({135505, 88411})"
+1916,frozenset({135505}),"frozenset({88411, 135493, 70509})"
+1917,frozenset({88411}),"frozenset({135505, 135493, 70509})"
+1918,frozenset({135493}),"frozenset({135505, 88411, 70509})"
+1919,frozenset({70509}),"frozenset({135505, 88411, 135493})"
+1920,"frozenset({88411, 135493, 70509})",frozenset({135789})
+1921,"frozenset({88411, 135493, 135789})",frozenset({70509})
+1922,"frozenset({88411, 70509, 135789})",frozenset({135493})
+1923,"frozenset({135789, 135493, 70509})",frozenset({88411})
+1924,"frozenset({88411, 135493})","frozenset({70509, 135789})"
+1925,"frozenset({88411, 70509})","frozenset({135493, 135789})"
+1926,"frozenset({88411, 135789})","frozenset({135493, 70509})"
+1927,"frozenset({135493, 70509})","frozenset({88411, 135789})"
+1928,"frozenset({135493, 135789})","frozenset({88411, 70509})"
+1929,"frozenset({70509, 135789})","frozenset({88411, 135493})"
+1930,frozenset({88411}),"frozenset({135789, 135493, 70509})"
+1931,frozenset({135493}),"frozenset({88411, 70509, 135789})"
+1932,frozenset({70509}),"frozenset({88411, 135493, 135789})"
+1933,frozenset({135789}),"frozenset({88411, 135493, 70509})"
+1934,"frozenset({88411, 135493, 3336149})",frozenset({70509})
+1935,"frozenset({88411, 3336149, 70509})",frozenset({135493})
+1936,"frozenset({135493, 3336149, 70509})",frozenset({88411})
+1937,"frozenset({88411, 135493, 70509})",frozenset({3336149})
+1938,"frozenset({88411, 3336149})","frozenset({135493, 70509})"
+1939,"frozenset({135493, 3336149})","frozenset({88411, 70509})"
+1940,"frozenset({3336149, 70509})","frozenset({88411, 135493})"
+1941,"frozenset({88411, 135493})","frozenset({3336149, 70509})"
+1942,"frozenset({88411, 70509})","frozenset({135493, 3336149})"
+1943,"frozenset({135493, 70509})","frozenset({88411, 3336149})"
+1944,frozenset({3336149}),"frozenset({88411, 135493, 70509})"
+1945,frozenset({88411}),"frozenset({135493, 3336149, 70509})"
+1946,frozenset({135493}),"frozenset({88411, 3336149, 70509})"
+1947,frozenset({70509}),"frozenset({88411, 135493, 3336149})"
+1948,"frozenset({135494, 70509, 88622})",frozenset({88623})
+1949,"frozenset({70509, 88622, 88623})",frozenset({135494})
+1950,"frozenset({135494, 88622, 88623})",frozenset({70509})
+1951,"frozenset({70509, 135494, 88623})",frozenset({88622})
+1952,"frozenset({70509, 88622})","frozenset({135494, 88623})"
+1953,"frozenset({135494, 88622})","frozenset({70509, 88623})"
+1954,"frozenset({88622, 88623})","frozenset({70509, 135494})"
+1955,"frozenset({70509, 135494})","frozenset({88622, 88623})"
+1956,"frozenset({70509, 88623})","frozenset({135494, 88622})"
+1957,"frozenset({135494, 88623})","frozenset({70509, 88622})"
+1958,frozenset({88622}),"frozenset({70509, 135494, 88623})"
+1959,frozenset({70509}),"frozenset({135494, 88622, 88623})"
+1960,frozenset({135494}),"frozenset({70509, 88622, 88623})"
+1961,frozenset({88623}),"frozenset({135494, 70509, 88622})"
+1962,"frozenset({88622, 3336149, 70509})",frozenset({88623})
+1963,"frozenset({3336149, 70509, 88623})",frozenset({88622})
+1964,"frozenset({3336149, 88622, 88623})",frozenset({70509})
+1965,"frozenset({70509, 88622, 88623})",frozenset({3336149})
+1966,"frozenset({3336149, 70509})","frozenset({88622, 88623})"
+1967,"frozenset({3336149, 88622})","frozenset({70509, 88623})"
+1968,"frozenset({3336149, 88623})","frozenset({70509, 88622})"
+1969,"frozenset({70509, 88622})","frozenset({3336149, 88623})"
+1970,"frozenset({70509, 88623})","frozenset({3336149, 88622})"
+1971,"frozenset({88622, 88623})","frozenset({3336149, 70509})"
+1972,frozenset({3336149}),"frozenset({70509, 88622, 88623})"
+1973,frozenset({70509}),"frozenset({3336149, 88622, 88623})"
+1974,frozenset({88622}),"frozenset({3336149, 70509, 88623})"
+1975,frozenset({88623}),"frozenset({88622, 3336149, 70509})"
+1976,"frozenset({88676, 135493, 70509})",frozenset({135492})
+1977,"frozenset({88676, 135493, 135492})",frozenset({70509})
+1978,"frozenset({88676, 70509, 135492})",frozenset({135493})
+1979,"frozenset({135492, 135493, 70509})",frozenset({88676})
+1980,"frozenset({88676, 135493})","frozenset({135492, 70509})"
+1981,"frozenset({88676, 70509})","frozenset({135492, 135493})"
+1982,"frozenset({88676, 135492})","frozenset({135493, 70509})"
+1983,"frozenset({135493, 70509})","frozenset({88676, 135492})"
+1984,"frozenset({135492, 135493})","frozenset({88676, 70509})"
+1985,"frozenset({135492, 70509})","frozenset({88676, 135493})"
+1986,frozenset({88676}),"frozenset({135492, 135493, 70509})"
+1987,frozenset({135493}),"frozenset({88676, 70509, 135492})"
+1988,frozenset({70509}),"frozenset({88676, 135493, 135492})"
+1989,frozenset({135492}),"frozenset({88676, 135493, 70509})"
+1990,"frozenset({135493, 135492, 3336149})",frozenset({70509})
+1991,"frozenset({135492, 3336149, 70509})",frozenset({135493})
+1992,"frozenset({135493, 3336149, 70509})",frozenset({135492})
+1993,"frozenset({135492, 135493, 70509})",frozenset({3336149})
+1994,"frozenset({135492, 3336149})","frozenset({135493, 70509})"
+1995,"frozenset({135493, 3336149})","frozenset({135492, 70509})"
+1996,"frozenset({3336149, 70509})","frozenset({135492, 135493})"
+1997,"frozenset({135492, 135493})","frozenset({3336149, 70509})"
+1998,"frozenset({135492, 70509})","frozenset({135493, 3336149})"
+1999,"frozenset({135493, 70509})","frozenset({135492, 3336149})"
+2000,frozenset({3336149}),"frozenset({135492, 135493, 70509})"
+2001,frozenset({135492}),"frozenset({135493, 3336149, 70509})"
+2002,frozenset({135493}),"frozenset({135492, 3336149, 70509})"
+2003,frozenset({70509}),"frozenset({135493, 135492, 3336149})"
+2004,"frozenset({88411, 88676, 135493})",frozenset({135492})
+2005,"frozenset({88411, 88676, 135492})",frozenset({135493})
+2006,"frozenset({88411, 135492, 135493})",frozenset({88676})
+2007,"frozenset({88676, 135493, 135492})",frozenset({88411})
+2008,"frozenset({88411, 88676})","frozenset({135492, 135493})"
+2009,"frozenset({88411, 135493})","frozenset({88676, 135492})"
+2010,"frozenset({88411, 135492})","frozenset({88676, 135493})"
+2011,"frozenset({88676, 135493})","frozenset({88411, 135492})"
+2012,"frozenset({88676, 135492})","frozenset({88411, 135493})"
+2013,"frozenset({135492, 135493})","frozenset({88411, 88676})"
+2014,frozenset({88411}),"frozenset({88676, 135493, 135492})"
+2015,frozenset({88676}),"frozenset({88411, 135492, 135493})"
+2016,frozenset({135493}),"frozenset({88411, 88676, 135492})"
+2017,frozenset({135492}),"frozenset({88411, 88676, 135493})"
+2018,"frozenset({135505, 88411, 88676})",frozenset({135493})
+2019,"frozenset({135505, 88411, 135493})",frozenset({88676})
+2020,"frozenset({135505, 88676, 135493})",frozenset({88411})
+2021,"frozenset({88411, 88676, 135493})",frozenset({135505})
+2022,"frozenset({135505, 88411})","frozenset({88676, 135493})"
+2023,"frozenset({135505, 88676})","frozenset({88411, 135493})"
+2024,"frozenset({135505, 135493})","frozenset({88411, 88676})"
+2025,"frozenset({88411, 88676})","frozenset({135505, 135493})"
+2026,"frozenset({88411, 135493})","frozenset({135505, 88676})"
+2027,"frozenset({88676, 135493})","frozenset({135505, 88411})"
+2028,frozenset({135505}),"frozenset({88411, 88676, 135493})"
+2029,frozenset({88411}),"frozenset({135505, 88676, 135493})"
+2030,frozenset({88676}),"frozenset({135505, 88411, 135493})"
+2031,frozenset({135493}),"frozenset({135505, 88411, 88676})"
+2032,"frozenset({88411, 88676, 135493})",frozenset({135789})
+2033,"frozenset({88411, 88676, 135789})",frozenset({135493})
+2034,"frozenset({88411, 135493, 135789})",frozenset({88676})
+2035,"frozenset({88676, 135493, 135789})",frozenset({88411})
+2036,"frozenset({88411, 88676})","frozenset({135493, 135789})"
+2037,"frozenset({88411, 135493})","frozenset({88676, 135789})"
+2038,"frozenset({88411, 135789})","frozenset({88676, 135493})"
+2039,"frozenset({88676, 135493})","frozenset({88411, 135789})"
+2040,"frozenset({88676, 135789})","frozenset({88411, 135493})"
+2041,"frozenset({135493, 135789})","frozenset({88411, 88676})"
+2042,frozenset({88411}),"frozenset({88676, 135493, 135789})"
+2043,frozenset({88676}),"frozenset({88411, 135493, 135789})"
+2044,frozenset({135493}),"frozenset({88411, 88676, 135789})"
+2045,frozenset({135789}),"frozenset({88411, 88676, 135493})"
+2046,"frozenset({88411, 135492, 3336149})",frozenset({135493})
+2047,"frozenset({88411, 135493, 3336149})",frozenset({135492})
+2048,"frozenset({135493, 135492, 3336149})",frozenset({88411})
+2049,"frozenset({88411, 135492, 135493})",frozenset({3336149})
+2050,"frozenset({88411, 3336149})","frozenset({135492, 135493})"
+2051,"frozenset({135492, 3336149})","frozenset({88411, 135493})"
+2052,"frozenset({135493, 3336149})","frozenset({88411, 135492})"
+2053,"frozenset({88411, 135492})","frozenset({135493, 3336149})"
+2054,"frozenset({88411, 135493})","frozenset({135492, 3336149})"
+2055,"frozenset({135492, 135493})","frozenset({88411, 3336149})"
+2056,frozenset({3336149}),"frozenset({88411, 135492, 135493})"
+2057,frozenset({88411}),"frozenset({135493, 135492, 3336149})"
+2058,frozenset({135492}),"frozenset({88411, 135493, 3336149})"
+2059,frozenset({135493}),"frozenset({88411, 135492, 3336149})"
+2060,"frozenset({1697, 88676, 135493, 70509})",frozenset({88411})
+2061,"frozenset({1697, 88411, 88676, 135493})",frozenset({70509})
+2062,"frozenset({1697, 88411, 88676, 70509})",frozenset({135493})
+2063,"frozenset({1697, 88411, 135493, 70509})",frozenset({88676})
+2064,"frozenset({88411, 88676, 135493, 70509})",frozenset({1697})
+2065,"frozenset({1697, 88676, 135493})","frozenset({88411, 70509})"
+2066,"frozenset({1697, 88676, 70509})","frozenset({88411, 135493})"
+2067,"frozenset({1697, 88411, 88676})","frozenset({135493, 70509})"
+2068,"frozenset({1697, 135493, 70509})","frozenset({88411, 88676})"
+2069,"frozenset({1697, 88411, 135493})","frozenset({88676, 70509})"
+2070,"frozenset({1697, 88411, 70509})","frozenset({88676, 135493})"
+2071,"frozenset({88676, 135493, 70509})","frozenset({1697, 88411})"
+2072,"frozenset({88411, 88676, 135493})","frozenset({1697, 70509})"
+2073,"frozenset({88411, 88676, 70509})","frozenset({1697, 135493})"
+2074,"frozenset({88411, 135493, 70509})","frozenset({1697, 88676})"
+2075,"frozenset({1697, 88676})","frozenset({88411, 135493, 70509})"
+2076,"frozenset({1697, 135493})","frozenset({88411, 88676, 70509})"
+2077,"frozenset({1697, 70509})","frozenset({88411, 88676, 135493})"
+2078,"frozenset({1697, 88411})","frozenset({88676, 135493, 70509})"
+2079,"frozenset({88676, 135493})","frozenset({1697, 88411, 70509})"
+2080,"frozenset({88676, 70509})","frozenset({1697, 88411, 135493})"
+2081,"frozenset({88411, 88676})","frozenset({1697, 135493, 70509})"
+2082,"frozenset({135493, 70509})","frozenset({1697, 88411, 88676})"
+2083,"frozenset({88411, 135493})","frozenset({1697, 88676, 70509})"
+2084,"frozenset({88411, 70509})","frozenset({1697, 88676, 135493})"
+2085,frozenset({1697}),"frozenset({88411, 88676, 135493, 70509})"
+2086,frozenset({88676}),"frozenset({1697, 88411, 135493, 70509})"
+2087,frozenset({135493}),"frozenset({1697, 88411, 88676, 70509})"
+2088,frozenset({70509}),"frozenset({1697, 88411, 88676, 135493})"
+2089,frozenset({88411}),"frozenset({1697, 88676, 135493, 70509})"
+2090,"frozenset({1698, 88411, 1708, 70509})",frozenset({88444})
+2091,"frozenset({88444, 1698, 1708, 70509})",frozenset({88411})
+2092,"frozenset({88444, 1698, 88411, 1708})",frozenset({70509})
+2093,"frozenset({1698, 88411, 88444, 70509})",frozenset({1708})
+2094,"frozenset({88444, 88411, 1708, 70509})",frozenset({1698})
+2095,"frozenset({1698, 1708, 70509})","frozenset({88411, 88444})"
+2096,"frozenset({1698, 88411, 1708})","frozenset({88444, 70509})"
+2097,"frozenset({88444, 1698, 1708})","frozenset({88411, 70509})"
+2098,"frozenset({1698, 88411, 70509})","frozenset({88444, 1708})"
+2099,"frozenset({1698, 88444, 70509})","frozenset({88411, 1708})"
+2100,"frozenset({1698, 88411, 88444})","frozenset({1708, 70509})"
+2101,"frozenset({88411, 1708, 70509})","frozenset({1698, 88444})"
+2102,"frozenset({88444, 1708, 70509})","frozenset({1698, 88411})"
+2103,"frozenset({88444, 88411, 1708})","frozenset({1698, 70509})"
+2104,"frozenset({88411, 88444, 70509})","frozenset({1698, 1708})"
+2105,"frozenset({1698, 1708})","frozenset({88411, 88444, 70509})"
+2106,"frozenset({1698, 70509})","frozenset({88444, 88411, 1708})"
+2107,"frozenset({1698, 88411})","frozenset({88444, 1708, 70509})"
+2108,"frozenset({1698, 88444})","frozenset({88411, 1708, 70509})"
+2109,"frozenset({1708, 70509})","frozenset({1698, 88411, 88444})"
+2110,"frozenset({88411, 1708})","frozenset({1698, 88444, 70509})"
+2111,"frozenset({88444, 1708})","frozenset({1698, 88411, 70509})"
+2112,"frozenset({88411, 70509})","frozenset({88444, 1698, 1708})"
+2113,"frozenset({88444, 70509})","frozenset({1698, 88411, 1708})"
+2114,"frozenset({88411, 88444})","frozenset({1698, 1708, 70509})"
+2115,frozenset({1698}),"frozenset({88444, 88411, 1708, 70509})"
+2116,frozenset({1708}),"frozenset({1698, 88411, 88444, 70509})"
+2117,frozenset({70509}),"frozenset({88444, 1698, 88411, 1708})"
+2118,frozenset({88411}),"frozenset({88444, 1698, 1708, 70509})"
+2119,frozenset({88444}),"frozenset({1698, 88411, 1708, 70509})"
+2120,"frozenset({88676, 135493, 70509, 135492})",frozenset({88411})
+2121,"frozenset({88411, 88676, 135493, 135492})",frozenset({70509})
+2122,"frozenset({88411, 88676, 135493, 70509})",frozenset({135492})
+2123,"frozenset({88411, 88676, 70509, 135492})",frozenset({135493})
+2124,"frozenset({88411, 135492, 135493, 70509})",frozenset({88676})
+2125,"frozenset({88676, 135493, 135492})","frozenset({88411, 70509})"
+2126,"frozenset({88676, 135493, 70509})","frozenset({88411, 135492})"
+2127,"frozenset({88411, 88676, 135493})","frozenset({135492, 70509})"
+2128,"frozenset({88676, 70509, 135492})","frozenset({88411, 135493})"
+2129,"frozenset({88411, 88676, 135492})","frozenset({135493, 70509})"
+2130,"frozenset({88411, 88676, 70509})","frozenset({135492, 135493})"
+2131,"frozenset({135492, 135493, 70509})","frozenset({88411, 88676})"
+2132,"frozenset({88411, 135492, 135493})","frozenset({88676, 70509})"
+2133,"frozenset({88411, 135493, 70509})","frozenset({88676, 135492})"
+2134,"frozenset({88411, 135492, 70509})","frozenset({88676, 135493})"
+2135,"frozenset({88676, 135493})","frozenset({88411, 135492, 70509})"
+2136,"frozenset({88676, 135492})","frozenset({88411, 135493, 70509})"
+2137,"frozenset({88676, 70509})","frozenset({88411, 135492, 135493})"
+2138,"frozenset({88411, 88676})","frozenset({135492, 135493, 70509})"
+2139,"frozenset({135492, 135493})","frozenset({88411, 88676, 70509})"
+2140,"frozenset({135493, 70509})","frozenset({88411, 88676, 135492})"
+2141,"frozenset({88411, 135493})","frozenset({88676, 70509, 135492})"
+2142,"frozenset({135492, 70509})","frozenset({88411, 88676, 135493})"
+2143,"frozenset({88411, 135492})","frozenset({88676, 135493, 70509})"
+2144,"frozenset({88411, 70509})","frozenset({88676, 135493, 135492})"
+2145,frozenset({88676}),"frozenset({88411, 135492, 135493, 70509})"
+2146,frozenset({135493}),"frozenset({88411, 88676, 70509, 135492})"
+2147,frozenset({135492}),"frozenset({88411, 88676, 135493, 70509})"
+2148,frozenset({70509}),"frozenset({88411, 88676, 135493, 135492})"
+2149,frozenset({88411}),"frozenset({88676, 135493, 70509, 135492})"
